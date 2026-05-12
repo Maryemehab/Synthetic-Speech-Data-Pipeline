@@ -12,13 +12,7 @@ log = get_logger("stage3_quality")
 # Signal computation
 
 def compute_signals(audio_path: str, text: str, cfg: dict) -> dict:
-    """
-    Compute all quality signals for one (text, audio) pair.
-
-    Returns a dict of signal values and an overall auto_pass bool.
-    If the audio file cannot be read, all signals are None and
-    auto_pass=False.
-    """
+   
     signals_cfg = cfg["review"]["auto_signals"]
 
     # Defaults for when audio can't be read
@@ -97,10 +91,7 @@ def compute_signals(audio_path: str, text: str, cfg: dict) -> dict:
 
 
 def _check_thresholds(signals: dict, cfg: dict) -> str | None:
-    """
-    Apply hard threshold checks.
-    Returns a rejection reason string, or None if everything passes.
-    """
+    
     dur  = signals.get("duration_sec")
     slr  = signals.get("silence_ratio")
     rms  = signals.get("rms_energy")
@@ -129,12 +120,10 @@ def _check_thresholds(signals: dict, cfg: dict) -> str | None:
 
 
 def _has_numbers(text: str) -> bool:
-    """Does the text contain ASCII or Arabic-Indic digits?"""
     return any(c.isdigit() or "\u0660" <= c <= "\u0669" for c in text)
 
 
 def _has_latin(text: str) -> bool:
-    """Does the text contain Latin-script characters?"""
     return any("a" <= c.lower() <= "z" for c in text)
 
 
