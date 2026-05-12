@@ -1,0 +1,84 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Stage 2 Synthesis",
+			"type": "shell",
+			"command": "python"
+		},
+		{
+			"label": "Run Stage 2 Synthesis",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-m",
+				"pipeline.stage2_synthesize"
+			]
+		},
+		{
+			"label": "Run Stage 2 Synthesis",
+			"type": "shell",
+			"command": "python -m pipeline.stage2_synthesize"
+		},
+		{
+			"label": "Run Test Script",
+			"type": "shell",
+			"command": "python test_stage2.py"
+		},
+		{
+			"label": "Install Requirements",
+			"type": "shell",
+			"command": "pip install -r requirements.txt"
+		},
+		{
+			"label": "Install Chatterbox TTS",
+			"type": "shell",
+			"command": "pip install chatterbox-tts"
+		},
+		{
+			"label": "Test Stage2 After Install",
+			"type": "shell",
+			"command": "python test_stage2.py"
+		},
+		{
+			"label": "Run Stage 2 Synthesis",
+			"type": "shell",
+			"command": "python -m pipeline.stage2_synthesize"
+		},
+		{
+			"label": "Run Stage2 Script",
+			"type": "shell",
+			"command": "python run_stage2.py"
+		},
+		{
+			"label": "Run Stage 3 Quality Scoring",
+			"type": "shell",
+			"command": "python -m pipeline.stage3_quality"
+		},
+		{
+			"label": "Start Review UI",
+			"type": "shell",
+			"command": "python -m uvicorn review_ui.app:app --host 0.0.0.0 --port 8003"
+		},
+		{
+			"label": "Resynthesixe Missing Audio Files",
+			"type": "shell",
+			"command": "python run_stage2.py"
+		},
+		{
+			"label": "Synthesize Missing Audio Files",
+			"type": "shell",
+			"command": "python run_stage2.py"
+		},
+		{
+			"label": "Re-run Stage 3 Quality",
+			"type": "shell",
+			"command": "python -m pipeline.stage3_quality"
+		},
+		{
+			"label": "Run Stage 4 Export",
+			"type": "shell",
+			"command": "python -m pipeline.stage4_export"
+		}
+	]
+}

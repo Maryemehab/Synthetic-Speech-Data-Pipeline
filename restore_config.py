@@ -1,0 +1,153 @@
+from pathlib import Path
+config = Path('config/config.yaml')
+config.parent.mkdir(parents=True, exist_ok=True)
+config.write_text(r'''# ══════════════════════════════════════════════════════════════════════════════
+#  S.S.D.P. — Synthetic Speech Data Pipeline — Configuration
+#  ALL tuneable parameters live here. No values are hardcoded in Python files.
+#  Edit this file to change behaviour without touching any code.
+# ══════════════════════════════════════════════════════════════════════════════
+
+pipeline:
+  name: "SSDP-Egyptian-Arabic"
+  version: "1.0.0"
+  run_id: null   # auto-generated as YYYYMMDD_HHMMSS_<8chars> each run
+
+# ─────────────────────────────────────────────────────────────────────────────
+# STAGE 1 — Text Prompt Generation
+# We use a local LLM via Ollama (free, runs on your machine, no API key needed)
+# Fallback: if Ollama is not running, we use the built-in seed corpus
+# ─────────────────────────────────────────────────────────────────────────────
+text_generation:
+  target_count: 120         # Total sentences to produce
+
+  # Local LLM backend — run: ollama serve  then: ollama pull qwen2.5:7b
+  # qwen2.5 has excellent Arabic / Egyptian dialect capability
+  ollama:
+    base_url: "http://localhost:11434"
+    model: "qwen2.5:7b"      # Change to qwen2.5:3b for lower RAM usage
+    timeout_seconds: 120
+    options:
+      temperature: 0.9
+      top_p: 0.95
+      num_predict: 1024
+
+  # If Ollama is unavailable, fall back to pre-written seed sentences
+  use_seed_fallback: true
+
+  # Domain distribution
+  domains:
+    daily_life:
+      count: 20
+      hint: "مواقف الحياة اليومية: التسوق والطبخ والمواصلات والكلام مع الجيران"
+    family_home:
+      count: 15
+      hint: "محادثات عيلية في البيت، طلبات، شجارات ودية بين إخوات"
+    food_cafe:
+      count: 15
+      hint: "طلب أكل في مطعم أو كافيه، الكلام عن الأكل المصري، باعة الشارع"
+    transport:
+      count: 10
+      hint: "توجيهات تاكسي ومترو ومكروباص، التفاوض على الأجرة"
+    work_school:
+      count: 10
+      hint: "كلام شغل أو مدرسة بالعامية، شكاوى وخطط ومواعيد"
+    emotions_opinions:
+      count: 10
+      hint: "التعبير عن المشاعر، الموافقة والرفض، التعليق على الأخبار"
+    phone_calls:
+      count: 10
+      hint: "بداية مكالمة تليفون مصرية، سؤال عن أحوال، طلب معروف"
+    religion_daily:
+      count: 10
+      hint: "عبارات دينية شائعة في الكلام اليومي: إن شاء الله، الحمد لله، ربنا يخليك"
+    numbers_mixed:
+      count: 10
+      hint: "جمل فيها أرقام وتواريخ وأسعار بالعامية المصرية"
+    slang_expressions:
+      count: 10
+      hint: "تعبيرات وعبارات مصرية خالصة: يسطا، يابني، مش معقول، عال العال"
+
+  length_distribution:
+    short:   { min: 3,  max: 8,  weight: 0.25 }
+    medium:  { min: 9,  max: 18, weight: 0.50 }
+    long:    { min: 19, max: 35, weight: 0.25 }
+
+  output_file:     "data/raw_text/prompts.jsonl"
+  checkpoint_file: "data/raw_text/.gen_checkpoint.json"
+  retry_attempts: 3
+
+# ─────────────────────────────────────────────────────────────────────────────
+# STAGE 2 — TTS Audio Synthesis
+# Primary:  NAMAA-Space/NAMAA-Egyptian-TTS  (MIT, best Egyptian dialect quality)
+# Fallback: oddadmix/chatterbox-egyptian-v0 (MIT, the model you mentioned)
+# Both are fine-tunes of ResembleAI/chatterbox-multilingual (MIT)
+# ─────────────────────────────────────────────────────────────────────────────
+tts_synthesis:
+  # "namaa" | "oddadmix" | "base_arabic"
+  model_variant: "namaa"
+
+  model_ids:
+    namaa:        "NAMAA-Space/NAMAA-Egyptian-TTS"
+    namaa_tfile:  "t3_mtl23ls_v2.safetensors"
+    oddadmix:     "oddadmix/chatterbox-egyptian-v0"
+    oddadmix_tfile: "model.safetensors"
+    base_arabic:  "ResembleAI/chatterbox"
+
+  exaggeration: 0.5
+  cfg_weight:   0.3
+  temperature:  0.8
+
+  # "cuda" | "mps" | "cpu"
+  device: "cpu"
+
+  output_format: "wav"
+  sample_rate: 16000
+  channels: 1
+
+  batch_size: 10
+  retry_attempts: 3
+  retry_delay_seconds: 3
+
+  output_dir:      "data/audio"
+  manifest_file:   "data/audio/synthesis_manifest.jsonl"
+  checkpoint_file: "data/audio/.synth_checkpoint.json"
+
+# ─────────────────────────────────────────────────────────────────────────────
+# STAGE 3 — Quality Review
+# ─────────────────────────────────────────────────────────────────────────────
+review:
+  auto_signals:
+    min_duration_seconds: 0.5
+    max_duration_seconds: 30.0
+    max_silence_ratio: 0.80
+    min_rms_energy: 0.001
+
+  ui_host: "0.0.0.0"
+  ui_port: 8003
+
+  statuses: [approved, rejected, uncertain]
+  review_db: "data/reviewed/review_decisions.jsonl"
+
+# ─────────────────────────────────────────────────────────────────────────────
+# STAGE 4 — Export
+# ─────────────────────────────────────────────────────────────────────────────
+export:
+  format: "huggingface"
+  accepted_status: "approved"
+  output_dir: "data/exports/final_dataset"
+  metadata_file: "metadata.jsonl"
+  audio_subdir: "audio"
+  split:
+    enabled: true
+    train_ratio: 0.9
+    seed: 42
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Logging
+# ─────────────────────────────────────────────────────────────────────────────
+logging:
+  level: "INFO"
+  log_file:      "logs/pipeline.log"
+  json_log_file: "logs/pipeline_events.jsonl"
+''' , encoding='utf-8')
+print('restored')

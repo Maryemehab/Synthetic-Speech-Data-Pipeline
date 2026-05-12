@@ -1,0 +1,173 @@
+{"id": "prompt_00305", "text": "التاكسي ده بيروح فين؟ ", "audio": "audio\\prompt_00305.wav", "duration_sec": 1.84, "domain": "transport", "word_count": 4, "source": ""}
+{"id": "prompt_00077", "text": "مبسوطة بالهدية دي، جميلة جداً وما توقعتهاش.", "audio": "audio\\prompt_00077.wav", "duration_sec": 3.16, "domain": "emotions_opinions", "word_count": 7, "source": ""}
+{"id": "prompt_00003", "text": "كلمت الجيران وقالوا الضوضاء من الدور الخامس.", "audio": "audio\\prompt_00003.wav", "duration_sec": 2.44, "domain": "daily_life", "word_count": 7, "source": ""}
+{"id": "prompt_00278", "text": "السيارة بقالها ست سنين ولسه شغالة تمام. ", "audio": "audio\\prompt_00278.wav", "duration_sec": 3.04, "domain": "numbers_mixed", "word_count": 7, "source": ""}
+{"id": "prompt_00304", "text": "المشروب بارد تمام. ", "audio": "audio\\prompt_00304.wav", "duration_sec": 1.8, "domain": "food_cafe", "word_count": 3, "source": ""}
+{"id": "prompt_00027", "text": "لو حاجة محتاجينها من السوق، ادوني قايمة دلوقتي قبل ما أنزل.", "audio": "audio\\prompt_00027.wav", "duration_sec": 3.48, "domain": "family_home", "word_count": 11, "source": ""}
+{"id": "prompt_00142", "text": "الواجب كتير اليوم.", "audio": "audio\\prompt_00142.wav", "duration_sec": 1.96, "domain": "work_school", "word_count": 3, "source": ""}
+{"id": "prompt_00028", "text": "الأوضة مش منظفة خالص، امتى هتلمها يا عم؟", "audio": "audio\\prompt_00028.wav", "duration_sec": 3.04, "domain": "family_home", "word_count": 8, "source": ""}
+{"id": "prompt_00226", "text": "نزلت غلط، المحطة الجاية دي هي اللي محتاجها. ", "audio": "audio\\prompt_00226.wav", "duration_sec": 2.6, "domain": "transport", "word_count": 8, "source": ""}
+{"id": "prompt_00126", "text": "أختي بتذاكر للامتحان كويس.", "audio": "audio\\prompt_00126.wav", "duration_sec": 2.24, "domain": "family_home", "word_count": 4, "source": ""}
+{"id": "prompt_00004", "text": "النور اتقطع من امبارح ولحد دلوقتي، مش عارف أعمل إيه.", "audio": "audio\\prompt_00004.wav", "duration_sec": 3.4, "domain": "daily_life", "word_count": 10, "source": ""}
+{"id": "prompt_00325", "text": "ربنا يساعدنا. ", "audio": "audio\\prompt_00325.wav", "duration_sec": 0.96, "domain": "religion_daily", "word_count": 2, "source": ""}
+{"id": "prompt_00060", "text": "الاجتماع اتأجل للأسبوع الجاي، فيه مشكلة في الجدول.", "audio": "audio\\prompt_00060.wav", "duration_sec": 3.36, "domain": "work_school", "word_count": 8, "source": ""}
+{"id": "prompt_00290", "text": "السوق مزدحم النهارده، هاخد وقت طويل. ", "audio": "audio\\prompt_00290.wav", "duration_sec": 3.08, "domain": "daily_life", "word_count": 6, "source": ""}
+{"id": "prompt_00301", "text": "أحب أطلب فول مع الخبز. ", "audio": "audio\\prompt_00301.wav", "duration_sec": 1.56, "domain": "food_cafe", "word_count": 5, "source": ""}
+{"id": "prompt_00031", "text": "مش هقدر أيجي معاكوا المرة دي، عندي شغل ضروري.", "audio": "audio\\prompt_00031.wav", "duration_sec": 2.64, "domain": "family_home", "word_count": 9, "source": ""}
+{"id": "prompt_00283", "text": "أيوه، ده اللي بقوله من الأول، متأخرين قوي. ", "audio": "audio\\prompt_00283.wav", "duration_sec": 2.56, "domain": "slang_expressions", "word_count": 8, "source": ""}
+{"id": "prompt_00068", "text": "ما قدرتش أرد على الإيميل بدري، كنت في شغل تاني.", "audio": "audio\\prompt_00068.wav", "duration_sec": 2.8, "domain": "work_school", "word_count": 10, "source": ""}
+{"id": "prompt_00244", "text": "أنا مع الفكرة دي مية بالمية، هي اللي هتنفع. ", "audio": "audio\\prompt_00244.wav", "duration_sec": 3.12, "domain": "emotions_opinions", "word_count": 9, "source": ""}
+{"id": "prompt_00082", "text": "كلمني لما توصل عشان أنزل أفتحلك الباب.", "audio": "audio\\prompt_00082.wav", "duration_sec": 2.32, "domain": "phone_calls", "word_count": 7, "source": ""}
+{"id": "prompt_00013", "text": "المواعيد مش بتتأجل، لازم تكون هناك الساعة عشرة بالظبط.", "audio": "audio\\prompt_00013.wav", "duration_sec": 3.76, "domain": "daily_life", "word_count": 9, "source": ""}
+{"id": "prompt_00099", "text": "والله أنا ما عرفتش أعمل غير كده، ده اللي قدرت عليه.", "audio": "audio\\prompt_00099.wav", "duration_sec": 2.32, "domain": "religion_daily", "word_count": 11, "source": ""}
+{"id": "prompt_00175", "text": "وصلت البيت متأخر عشان الزحمة كانت بجنان في الطريق. ", "audio": "audio\\prompt_00175.wav", "duration_sec": 3.12, "domain": "daily_life", "word_count": 9, "source": ""}
+{"id": "prompt_00143", "text": "الزملاء بيساعدوني كويس.", "audio": "audio\\prompt_00143.wav", "duration_sec": 1.64, "domain": "work_school", "word_count": 3, "source": ""}
+{"id": "prompt_00116", "text": "هو ده الكلام، كده بقى أحسن بكتير من الأول.", "audio": "audio\\prompt_00116.wav", "duration_sec": 2.72, "domain": "slang_expressions", "word_count": 9, "source": ""}
+{"id": "prompt_00134", "text": "المشروب بارد تمام.", "audio": "audio\\prompt_00134.wav", "duration_sec": 1.6, "domain": "food_cafe", "word_count": 3, "source": ""}
+{"id": "prompt_00069", "text": "الفصل ده فيه خمسة وأربعين طالب والفصل ضيق على الآخر.", "audio": "audio\\prompt_00069.wav", "duration_sec": 3.52, "domain": "work_school", "word_count": 10, "source": ""}
+{"id": "prompt_00231", "text": "المشروع ده محتاج تلات أيام على الأقل عشان يخلص. ", "audio": "audio\\prompt_00231.wav", "duration_sec": 2.48, "domain": "work_school", "word_count": 9, "source": ""}
+{"id": "prompt_00239", "text": "الفصل ده فيه خمسة وأربعين طالب والفصل ضيق على الآخر. ", "audio": "audio\\prompt_00239.wav", "duration_sec": 3.92, "domain": "work_school", "word_count": 10, "source": ""}
+{"id": "prompt_00213", "text": "اللحمة دي مش اتشوّت كويس، لازم تفضل تانية عشر دقيقة. ", "audio": "audio\\prompt_00213.wav", "duration_sec": 3.04, "domain": "food_cafe", "word_count": 10, "source": ""}
+{"id": "prompt_00284", "text": "ماشي يا عم، خليها عليّ، أنا هتصرف. ", "audio": "audio\\prompt_00284.wav", "duration_sec": 2.84, "domain": "slang_expressions", "word_count": 7, "source": ""}
+{"id": "prompt_00120", "text": "السوق مزدحم النهارده، هاخد وقت طويل.", "audio": "audio\\prompt_00120.wav", "duration_sec": 3.32, "domain": "daily_life", "word_count": 6, "source": ""}
+{"id": "prompt_00232", "text": "الأستاذ محمد عنده امتحان مفاجئ بكرة، ذاكرتوا؟ ", "audio": "audio\\prompt_00232.wav", "duration_sec": 3.4, "domain": "work_school", "word_count": 7, "source": ""}
+{"id": "prompt_00272", "text": "عندي موعد الدكتور يوم الأربعاء الساعة اتنين. ", "audio": "audio\\prompt_00272.wav", "duration_sec": 3.6, "domain": "numbers_mixed", "word_count": 7, "source": ""}
+{"id": "prompt_00064", "text": "معاكيش ورقة الامتحان اللي فات عشان أشوف غلطاتي؟", "audio": "audio\\prompt_00064.wav", "duration_sec": 2.6, "domain": "work_school", "word_count": 8, "source": ""}
+{"id": "prompt_00098", "text": "إن شاء الله تكون صحتك بتتحسن بسرعة.", "audio": "audio\\prompt_00098.wav", "duration_sec": 2.96, "domain": "religion_daily", "word_count": 7, "source": ""}
+{"id": "prompt_00332", "text": "الفاتورة مئتين جنيه.", "audio": "audio\\prompt_00332.wav", "duration_sec": 1.8, "domain": "numbers_mixed", "word_count": 3, "source": ""}
+{"id": "prompt_00261", "text": "الحمد لله على كل حال، كل حاجة بخير. ", "audio": "audio\\prompt_00261.wav", "duration_sec": 2.52, "domain": "religion_daily", "word_count": 8, "source": ""}
+{"id": "prompt_00023", "text": "هتعملوا إيه في عيد الميلاد؟ هنعمل حفلة ولا بس أكل؟", "audio": "audio\\prompt_00023.wav", "duration_sec": 2.92, "domain": "family_home", "word_count": 10, "source": ""}
+{"id": "prompt_00111", "text": "عال العال، كده تمام، إنت فاهمها صح.", "audio": "audio\\prompt_00111.wav", "duration_sec": 2.4, "domain": "slang_expressions", "word_count": 7, "source": ""}
+{"id": "prompt_00149", "text": "أنا متحمس للغد.", "audio": "audio\\prompt_00149.wav", "duration_sec": 1.52, "domain": "emotions_opinions", "word_count": 3, "source": ""}
+{"id": "prompt_00234", "text": "معاكيش ورقة الامتحان اللي فات عشان أشوف غلطاتي؟ ", "audio": "audio\\prompt_00234.wav", "duration_sec": 3.2, "domain": "work_school", "word_count": 8, "source": ""}
+{"id": "prompt_00205", "text": "إيه اللي بتاكله النهارده، في حاجة حلوة؟ ", "audio": "audio\\prompt_00205.wav", "duration_sec": 1.96, "domain": "food_cafe", "word_count": 7, "source": ""}
+{"id": "prompt_00171", "text": "الجو حر جداً النهارده، مش طايق أقعد برة. ", "audio": "audio\\prompt_00171.wav", "duration_sec": 2.64, "domain": "daily_life", "word_count": 8, "source": ""}
+{"id": "prompt_00333", "text": "يوم السابع من الشهر. ", "audio": "audio\\prompt_00333.wav", "duration_sec": 1.44, "domain": "numbers_mixed", "word_count": 4, "source": ""}
+{"id": "prompt_00203", "text": "الولاد خلصوا الامتحانات وعايزين يروحوا شرم. ", "audio": "audio\\prompt_00203.wav", "duration_sec": 2.48, "domain": "family_home", "word_count": 6, "source": ""}
+{"id": "prompt_00259", "text": "معلش ألو، صوتي مسمعش كويس؟ أنا هنا بسمعك. ", "audio": "audio\\prompt_00259.wav", "duration_sec": 2.44, "domain": "phone_calls", "word_count": 8, "source": ""}
+{"id": "prompt_00170", "text": "أنا رايح السوق دلوقتي، عايز حاجة؟ ", "audio": "audio\\prompt_00170.wav", "duration_sec": 2.04, "domain": "daily_life", "word_count": 6, "source": ""}
+{"id": "prompt_00156", "text": "الحمد لله دائماً.", "audio": "audio\\prompt_00156.wav", "duration_sec": 1.76, "domain": "religion_daily", "word_count": 3, "source": ""}
+{"id": "prompt_00113", "text": "أيوه، ده اللي بقوله من الأول، متأخرين قوي.", "audio": "audio\\prompt_00113.wav", "duration_sec": 2.24, "domain": "slang_expressions", "word_count": 8, "source": ""}
+{"id": "prompt_00000", "text": "أنا رايح السوق دلوقتي، عايز حاجة؟", "audio": "audio\\prompt_00000.wav", "duration_sec": 2.24, "domain": "daily_life", "word_count": 6, "source": ""}
+{"id": "prompt_00329", "text": "شكراً لك يا رب. ", "audio": "audio\\prompt_00329.wav", "duration_sec": 0.96, "domain": "religion_daily", "word_count": 4, "source": ""}
+{"id": "prompt_00032", "text": "هتشتروا العفش الجديد من فين؟ قولوا سيف الدين أحسن من موبيليا.", "audio": "audio\\prompt_00032.wav", "duration_sec": 4.0, "domain": "family_home", "word_count": 11, "source": ""}
+{"id": "prompt_00139", "text": "الطريق ده طويل شوية.", "audio": "audio\\prompt_00139.wav", "duration_sec": 1.44, "domain": "transport", "word_count": 4, "source": ""}
+{"id": "prompt_00243", "text": "صراحة الكلام ده مش منطقي خالص، مين اللي قاله؟ ", "audio": "audio\\prompt_00243.wav", "duration_sec": 1.96, "domain": "emotions_opinions", "word_count": 9, "source": ""}
+{"id": "prompt_00288", "text": "مش شايل همها، ده مش أكتر من مزحة. ", "audio": "audio\\prompt_00288.wav", "duration_sec": 2.52, "domain": "slang_expressions", "word_count": 8, "source": ""}
+{"id": "prompt_00330", "text": "الساعة تلاتة الآن. ", "audio": "audio\\prompt_00330.wav", "duration_sec": 1.84, "domain": "numbers_mixed", "word_count": 3, "source": ""}
+{"id": "prompt_00339", "text": "على فكرة، ده مهم. ", "audio": "audio\\prompt_00339.wav", "duration_sec": 1.32, "domain": "slang_expressions", "word_count": 4, "source": ""}
+{"id": "prompt_00264", "text": "بسم الله قبل ما نبدأ في الأكل. ", "audio": "audio\\prompt_00264.wav", "duration_sec": 1.92, "domain": "religion_daily", "word_count": 7, "source": ""}
+{"id": "prompt_00070", "text": "والله مبسوط جداً، النهارده يوم من أحسن الأيام.", "audio": "audio\\prompt_00070.wav", "duration_sec": 3.84, "domain": "emotions_opinions", "word_count": 8, "source": ""}
+{"id": "prompt_00184", "text": "عايز أخد إجازة بكرة ولكن الشغل مش بيسمح. ", "audio": "audio\\prompt_00184.wav", "duration_sec": 2.52, "domain": "daily_life", "word_count": 8, "source": ""}
+{"id": "prompt_00081", "text": "أهلاً يا هاني، كنت بفكر فيك دلوقتي، إيه أخبارك؟", "audio": "audio\\prompt_00081.wav", "duration_sec": 3.12, "domain": "phone_calls", "word_count": 9, "source": ""}
+{"id": "prompt_00230", "text": "الاجتماع اتأجل للأسبوع الجاي، فيه مشكلة في الجدول. ", "audio": "audio\\prompt_00230.wav", "duration_sec": 2.8, "domain": "work_school", "word_count": 8, "source": ""}
+{"id": "prompt_00201", "text": "مش هقدر أيجي معاكوا المرة دي، عندي شغل ضروري. ", "audio": "audio\\prompt_00201.wav", "duration_sec": 2.72, "domain": "family_home", "word_count": 9, "source": ""}
+{"id": "prompt_00043", "text": "اللحمة دي مش اتشوّت كويس، لازم تفضل تانية عشر دقيقة.", "audio": "audio\\prompt_00043.wav", "duration_sec": 2.92, "domain": "food_cafe", "word_count": 10, "source": ""}
+{"id": "prompt_00029", "text": "إحنا محتاجين نشتري تلاجة جديدة، دي بقالها عشر سنين.", "audio": "audio\\prompt_00029.wav", "duration_sec": 3.6, "domain": "family_home", "word_count": 9, "source": ""}
+{"id": "prompt_00311", "text": "المدير قال ييجي غداً. ", "audio": "audio\\prompt_00311.wav", "duration_sec": 1.84, "domain": "work_school", "word_count": 4, "source": ""}
+{"id": "prompt_00254", "text": "عايزك تيجي بكرة الصبح لو معاك وقت. ", "audio": "audio\\prompt_00254.wav", "duration_sec": 2.76, "domain": "phone_calls", "word_count": 7, "source": ""}
+{"id": "prompt_00313", "text": "الزملاء بيساعدوني كويس. ", "audio": "audio\\prompt_00313.wav", "duration_sec": 2.08, "domain": "work_school", "word_count": 3, "source": ""}
+{"id": "prompt_00119", "text": "تمام يا صاحبي، شكراً على التعب، ربنا يجازيك.", "audio": "audio\\prompt_00119.wav", "duration_sec": 2.84, "domain": "slang_expressions", "word_count": 8, "source": ""}
+{"id": "prompt_00144", "text": "الاجتماع مهم جداً.", "audio": "audio\\prompt_00144.wav", "duration_sec": 1.52, "domain": "work_school", "word_count": 3, "source": ""}
+{"id": "prompt_00182", "text": "الجزارة بدري النهارده، حروح آخر النهار عشان يبقى فيه لحمة. ", "audio": "audio\\prompt_00182.wav", "duration_sec": 3.16, "domain": "daily_life", "word_count": 10, "source": ""}
+{"id": "prompt_00086", "text": "الخط بيقطع معاك، هكلمك تاني من مكان تاني.", "audio": "audio\\prompt_00086.wav", "duration_sec": 3.44, "domain": "phone_calls", "word_count": 8, "source": ""}
+{"id": "prompt_00165", "text": "ده كلام فارغ.", "audio": "audio\\prompt_00165.wav", "duration_sec": 1.28, "domain": "slang_expressions", "word_count": 3, "source": ""}
+{"id": "prompt_00100", "text": "السعر اتغير، دلوقتي بقى مية وخمسين بدل المية.", "audio": "audio\\prompt_00100.wav", "duration_sec": 2.92, "domain": "numbers_mixed", "word_count": 8, "source": ""}
+{"id": "prompt_00251", "text": "أهلاً يا هاني، كنت بفكر فيك دلوقتي، إيه أخبارك؟ ", "audio": "audio\\prompt_00251.wav", "duration_sec": 2.88, "domain": "phone_calls", "word_count": 9, "source": ""}
+{"id": "prompt_00192", "text": "بابا مش هيجي بدري النهارده، عنده اجتماع. ", "audio": "audio\\prompt_00192.wav", "duration_sec": 2.68, "domain": "family_home", "word_count": 7, "source": ""}
+{"id": "prompt_00204", "text": "أنا تعبان من الشغل، خليني أرتاح شوية قبل العشاء. ", "audio": "audio\\prompt_00204.wav", "duration_sec": 2.76, "domain": "family_home", "word_count": 9, "source": ""}
+{"id": "prompt_00183", "text": "المواعيد مش بتتأجل، لازم تكون هناك الساعة عشرة بالظبط.", "audio": "audio\\prompt_00183.wav", "duration_sec": 3.24, "domain": "daily_life", "word_count": 9, "source": ""}
+{"id": "prompt_00202", "text": "هتشتروا العفش الجديد من فين؟ قولوا سيف الدين أحسن من موبيليا. ", "audio": "audio\\prompt_00202.wav", "duration_sec": 3.2, "domain": "family_home", "word_count": 11, "source": ""}
+{"id": "prompt_00267", "text": "ربنا يكرمك يا عم، متشكر جداً. ", "audio": "audio\\prompt_00267.wav", "duration_sec": 2.96, "domain": "religion_daily", "word_count": 6, "source": ""}
+{"id": "prompt_00065", "text": "المدير عايز يشوف الأرقام قبل ما يعمل القرار.", "audio": "audio\\prompt_00065.wav", "duration_sec": 2.72, "domain": "work_school", "word_count": 8, "source": ""}
+{"id": "prompt_00034", "text": "أنا تعبان من الشغل، خليني أرتاح شوية قبل العشاء.", "audio": "audio\\prompt_00034.wav", "duration_sec": 2.56, "domain": "family_home", "word_count": 9, "source": ""}
+{"id": "prompt_00252", "text": "كلمني لما توصل عشان أنزل أفتحلك الباب. ", "audio": "audio\\prompt_00252.wav", "duration_sec": 3.2, "domain": "phone_calls", "word_count": 7, "source": ""}
+{"id": "prompt_00268", "text": "إن شاء الله تكون صحتك بتتحسن بسرعة. ", "audio": "audio\\prompt_00268.wav", "duration_sec": 2.68, "domain": "religion_daily", "word_count": 7, "source": ""}
+{"id": "prompt_00306", "text": "المترو مزدحم الصبح. ", "audio": "audio\\prompt_00306.wav", "duration_sec": 1.64, "domain": "transport", "word_count": 3, "source": ""}
+{"id": "prompt_00115", "text": "بلاها، مش محتاجين الموضوع ده دلوقتي.", "audio": "audio\\prompt_00115.wav", "duration_sec": 2.6, "domain": "slang_expressions", "word_count": 6, "source": ""}
+{"id": "prompt_00147", "text": "أنا متعب من الشغل.", "audio": "audio\\prompt_00147.wav", "duration_sec": 1.32, "domain": "emotions_opinions", "word_count": 4, "source": ""}
+{"id": "prompt_00274", "text": "في تلاتين طالب في الفصل ده بس غاب عشرة النهارده. ", "audio": "audio\\prompt_00274.wav", "duration_sec": 3.56, "domain": "numbers_mixed", "word_count": 10, "source": ""}
+{"id": "prompt_00166", "text": "أنا فاهم تمام.", "audio": "audio\\prompt_00166.wav", "duration_sec": 1.76, "domain": "slang_expressions", "word_count": 3, "source": ""}
+{"id": "prompt_00131", "text": "أحب أطلب فول مع الخبز.", "audio": "audio\\prompt_00131.wav", "duration_sec": 1.52, "domain": "food_cafe", "word_count": 5, "source": ""}
+{"id": "prompt_00056", "text": "نزلت غلط، المحطة الجاية دي هي اللي محتاجها.", "audio": "audio\\prompt_00056.wav", "duration_sec": 3.44, "domain": "transport", "word_count": 8, "source": ""}
+{"id": "prompt_00320", "text": "ألو، أنا سمعت صوتك. ", "audio": "audio\\prompt_00320.wav", "duration_sec": 1.92, "domain": "phone_calls", "word_count": 4, "source": ""}
+{"id": "prompt_00193", "text": "هتعملوا إيه في عيد الميلاد؟ هنعمل حفلة ولا بس أكل؟ ", "audio": "audio\\prompt_00193.wav", "duration_sec": 3.16, "domain": "family_home", "word_count": 10, "source": ""}
+{"id": "prompt_00095", "text": "الله يرحمه، كان راجل طيب جداً.", "audio": "audio\\prompt_00095.wav", "duration_sec": 1.92, "domain": "religion_daily", "word_count": 6, "source": ""}
+{"id": "prompt_00289", "text": "تمام يا صاحبي، شكراً على التعب، ربنا يجازيك. ", "audio": "audio\\prompt_00289.wav", "duration_sec": 2.36, "domain": "slang_expressions", "word_count": 8, "source": ""}
+{"id": "prompt_00012", "text": "الجزارة بدري النهارده، حروح آخر النهار عشان يبقى فيه لحمة.", "audio": "audio\\prompt_00012.wav", "duration_sec": 3.48, "domain": "daily_life", "word_count": 10, "source": ""}
+{"id": "prompt_00059", "text": "طول الطريق وعدل في شارع التحرير لحد ما تلاقي إشارة حمرا.", "audio": "audio\\prompt_00059.wav", "duration_sec": 3.32, "domain": "transport", "word_count": 11, "source": ""}
+{"id": "prompt_00319", "text": "أنا متحمس للغد. ", "audio": "audio\\prompt_00319.wav", "duration_sec": 1.36, "domain": "emotions_opinions", "word_count": 3, "source": ""}
+{"id": "prompt_00169", "text": "على فكرة، ده مهم.", "audio": "audio\\prompt_00169.wav", "duration_sec": 1.4, "domain": "slang_expressions", "word_count": 4, "source": ""}
+{"id": "prompt_00075", "text": "خايف من الامتحان بس هحاول أذاكر كويس.", "audio": "audio\\prompt_00075.wav", "duration_sec": 2.68, "domain": "emotions_opinions", "word_count": 7, "source": ""}
+{"id": "prompt_00223", "text": "الزحمة على كوبري أكتوبر واقفة من ساعة، روح كورنيش النيل. ", "audio": "audio\\prompt_00223.wav", "duration_sec": 3.72, "domain": "transport", "word_count": 10, "source": ""}
+{"id": "prompt_00338", "text": "تمام يا راجل.", "audio": "audio\\prompt_00338.wav", "duration_sec": 1.0, "domain": "slang_expressions", "word_count": 3, "source": ""}
+{"id": "prompt_00327", "text": "إن شاء الله كل حاجة تمام. ", "audio": "audio\\prompt_00327.wav", "duration_sec": 2.0, "domain": "religion_daily", "word_count": 6, "source": ""}
+{"id": "prompt_00273", "text": "اشتريت تلات حاجات وحساب الكاشير طلع أربعة. ", "audio": "audio\\prompt_00273.wav", "duration_sec": 2.68, "domain": "numbers_mixed", "word_count": 7, "source": ""}
+{"id": "prompt_00299", "text": "بابا بيحب يشاهد الأخبار كل يوم. ", "audio": "audio\\prompt_00299.wav", "duration_sec": 2.52, "domain": "family_home", "word_count": 6, "source": ""}
+{"id": "prompt_00227", "text": "في باركينج قريب ولا لازم أحط العربية في الشارع؟ ", "audio": "audio\\prompt_00227.wav", "duration_sec": 3.08, "domain": "transport", "word_count": 9, "source": ""}
+{"id": "prompt_00091", "text": "الحمد لله على كل حال، كل حاجة بخير.", "audio": "audio\\prompt_00091.wav", "duration_sec": 2.2, "domain": "religion_daily", "word_count": 8, "source": ""}
+{"id": "prompt_00245", "text": "خايف من الامتحان بس هحاول أذاكر كويس. ", "audio": "audio\\prompt_00245.wav", "duration_sec": 2.84, "domain": "emotions_opinions", "word_count": 7, "source": ""}
+{"id": "prompt_00236", "text": "خدت إجازة مرضية النهارده عشان كنت تعبان. ", "audio": "audio\\prompt_00236.wav", "duration_sec": 3.24, "domain": "work_school", "word_count": 7, "source": ""}
+{"id": "prompt_00308", "text": "السائق ده ماهر جداً. ", "audio": "audio\\prompt_00308.wav", "duration_sec": 1.6, "domain": "transport", "word_count": 4, "source": ""}
+{"id": "prompt_00238", "text": "ما قدرتش أرد على الإيميل بدري، كنت في شغل تاني. ", "audio": "audio\\prompt_00238.wav", "duration_sec": 2.16, "domain": "work_school", "word_count": 10, "source": ""}
+{"id": "prompt_00125", "text": "أبويا قال ييجي متأخر النهارده.", "audio": "audio\\prompt_00125.wav", "duration_sec": 2.68, "domain": "family_home", "word_count": 5, "source": ""}
+{"id": "prompt_00046", "text": "عمل لنا كنافة بالقشطة وشاي بالنعنع وتمام.", "audio": "audio\\prompt_00046.wav", "duration_sec": 3.52, "domain": "food_cafe", "word_count": 7, "source": ""}
+{"id": "prompt_00145", "text": "أنا سعيد بالنتيجة دي.", "audio": "audio\\prompt_00145.wav", "duration_sec": 1.52, "domain": "emotions_opinions", "word_count": 4, "source": ""}
+{"id": "prompt_00141", "text": "المدير قال ييجي غداً.", "audio": "audio\\prompt_00141.wav", "duration_sec": 1.76, "domain": "work_school", "word_count": 4, "source": ""}
+{"id": "prompt_00022", "text": "بابا مش هيجي بدري النهارده، عنده اجتماع.", "audio": "audio\\prompt_00022.wav", "duration_sec": 2.36, "domain": "family_home", "word_count": 7, "source": ""}
+{"id": "prompt_00146", "text": "الفيلم ده مش حلو.", "audio": "audio\\prompt_00146.wav", "duration_sec": 2.64, "domain": "emotions_opinions", "word_count": 4, "source": ""}
+{"id": "prompt_00286", "text": "هو ده الكلام، كده بقى أحسن بكتير من الأول. ", "audio": "audio\\prompt_00286.wav", "duration_sec": 2.96, "domain": "slang_expressions", "word_count": 9, "source": ""}
+{"id": "prompt_00224", "text": "عشرة جنيه ومش أكتر، ده مش زيادة على المسافة دي؟ ", "audio": "audio\\prompt_00224.wav", "duration_sec": 2.68, "domain": "transport", "word_count": 10, "source": ""}
+{"id": "prompt_00155", "text": "ربنا يساعدنا.", "audio": "audio\\prompt_00155.wav", "duration_sec": 1.0, "domain": "religion_daily", "word_count": 2, "source": ""}
+{"id": "prompt_00066", "text": "خدت إجازة مرضية النهارده عشان كنت تعبان.", "audio": "audio\\prompt_00066.wav", "duration_sec": 2.88, "domain": "work_school", "word_count": 7, "source": ""}
+{"id": "prompt_00150", "text": "ألو، أنا سمعت صوتك.", "audio": "audio\\prompt_00150.wav", "duration_sec": 1.44, "domain": "phone_calls", "word_count": 4, "source": ""}
+{"id": "prompt_00279", "text": "دفعت ثلاثة وعشرين جنيه في الفاتورة دي بس. ", "audio": "audio\\prompt_00279.wav", "duration_sec": 2.84, "domain": "numbers_mixed", "word_count": 8, "source": ""}
+{"id": "prompt_00083", "text": "بابا بيعمل إيه؟ سلّم عليه وقوله إننا بخير.", "audio": "audio\\prompt_00083.wav", "duration_sec": 2.6, "domain": "phone_calls", "word_count": 8, "source": ""}
+{"id": "prompt_00089", "text": "معلش ألو، صوتي مسمعش كويس؟ أنا هنا بسمعك.", "audio": "audio\\prompt_00089.wav", "duration_sec": 2.8, "domain": "phone_calls", "word_count": 8, "source": ""}
+{"id": "prompt_00250", "text": "ألو، آلو، تسمعني ولا فيه مشكلة في الشبكة؟ ", "audio": "audio\\prompt_00250.wav", "duration_sec": 2.92, "domain": "phone_calls", "word_count": 8, "source": ""}
+{"id": "prompt_00164", "text": "عمري ثلاثين سنة.", "audio": "audio\\prompt_00164.wav", "duration_sec": 1.16, "domain": "numbers_mixed", "word_count": 3, "source": ""}
+{"id": "prompt_00217", "text": "المطعم ده زحمة دايماً بالليل، أحسن ناكل بدري.", "audio": "audio\\prompt_00217.wav", "duration_sec": 2.76, "domain": "food_cafe", "word_count": 8, "source": ""}
+{"id": "prompt_00285", "text": "بلاها، مش محتاجين الموضوع ده دلوقتي. ", "audio": "audio\\prompt_00285.wav", "duration_sec": 1.88, "domain": "slang_expressions", "word_count": 6, "source": ""}
+{"id": "prompt_00324", "text": "سلّم على العيلة. ", "audio": "audio\\prompt_00324.wav", "duration_sec": 1.16, "domain": "phone_calls", "word_count": 3, "source": ""}
+{"id": "prompt_00052", "text": "الأتوبيس رقم اتنين وأربعين بيروح فين بالظبط؟", "audio": "audio\\prompt_00052.wav", "duration_sec": 3.12, "domain": "transport", "word_count": 7, "source": ""}
+{"id": "prompt_00315", "text": "أنا سعيد بالنتيجة دي. ", "audio": "audio\\prompt_00315.wav", "duration_sec": 1.96, "domain": "emotions_opinions", "word_count": 4, "source": ""}
+{"id": "prompt_00262", "text": "ربنا يسهل وتعدي بسلامة يا رب. ", "audio": "audio\\prompt_00262.wav", "duration_sec": 2.2, "domain": "religion_daily", "word_count": 6, "source": ""}
+{"id": "prompt_00135", "text": "التاكسي ده بيروح فين؟", "audio": "audio\\prompt_00135.wav", "duration_sec": 1.8, "domain": "transport", "word_count": 4, "source": ""}
+{"id": "prompt_00108", "text": "السيارة بقالها ست سنين ولسه شغالة تمام.", "audio": "audio\\prompt_00108.wav", "duration_sec": 3.6, "domain": "numbers_mixed", "word_count": 7, "source": ""}
+{"id": "prompt_00270", "text": "السعر اتغير، دلوقتي بقى مية وخمسين بدل المية. ", "audio": "audio\\prompt_00270.wav", "duration_sec": 3.44, "domain": "numbers_mixed", "word_count": 8, "source": ""}
+{"id": "prompt_00033", "text": "الولاد خلصوا الامتحانات وعايزين يروحوا شرم.", "audio": "audio\\prompt_00033.wav", "duration_sec": 2.6, "domain": "family_home", "word_count": 6, "source": ""}
+{"id": "prompt_00093", "text": "ماشي يا عم، ربنا يخليك وتيجي بالسلامة.", "audio": "audio\\prompt_00093.wav", "duration_sec": 2.16, "domain": "religion_daily", "word_count": 7, "source": ""}
+{"id": "prompt_00159", "text": "شكراً لك يا رب.", "audio": "audio\\prompt_00159.wav", "duration_sec": 1.32, "domain": "religion_daily", "word_count": 4, "source": ""}
+{"id": "prompt_00136", "text": "المترو مزدحم الصبح.", "audio": "audio\\prompt_00136.wav", "duration_sec": 1.44, "domain": "transport", "word_count": 3, "source": ""}
+{"id": "prompt_00045", "text": "الرقي اللي اشتريناه ده حلو جداً، ربنا يباركلك.", "audio": "audio\\prompt_00045.wav", "duration_sec": 3.24, "domain": "food_cafe", "word_count": 8, "source": ""}
+{"id": "prompt_00167", "text": "مش هقول حاجة.", "audio": "audio\\prompt_00167.wav", "duration_sec": 1.6, "domain": "slang_expressions", "word_count": 3, "source": ""}
+{"id": "prompt_00062", "text": "الأستاذ محمد عنده امتحان مفاجئ بكرة، ذاكرتوا؟", "audio": "audio\\prompt_00062.wav", "duration_sec": 3.12, "domain": "work_school", "word_count": 7, "source": ""}
+{"id": "prompt_00258", "text": "البيانات خلصت على الموبايل، هبعتلك على الواي فاي. ", "audio": "audio\\prompt_00258.wav", "duration_sec": 3.28, "domain": "phone_calls", "word_count": 8, "source": ""}
+{"id": "prompt_00218", "text": "حطيت تاني كمون وكزبرة وطعم الحساء اتغير تماماً. ", "audio": "audio\\prompt_00218.wav", "duration_sec": 4.08, "domain": "food_cafe", "word_count": 8, "source": ""}
+{"id": "prompt_00026", "text": "الطفل ده بيعيط من نص ساعة، مش عارف إيه اللي بيحصله.", "audio": "audio\\prompt_00026.wav", "duration_sec": 3.2, "domain": "family_home", "word_count": 11, "source": ""}
+{"id": "prompt_00121", "text": "نسيت المفتاح في البيت، لازم أرجع.", "audio": "audio\\prompt_00121.wav", "duration_sec": 2.08, "domain": "daily_life", "word_count": 6, "source": ""}
+{"id": "prompt_00154", "text": "سلّم على العيلة.", "audio": "audio\\prompt_00154.wav", "duration_sec": 1.92, "domain": "phone_calls", "word_count": 3, "source": ""}
+{"id": "prompt_00158", "text": "ربنا يرحم الجميع.", "audio": "audio\\prompt_00158.wav", "duration_sec": 1.36, "domain": "religion_daily", "word_count": 3, "source": ""}
+{"id": "prompt_00051", "text": "ياعم التاكسي، روح شارع جامعة الدول، عارفه؟", "audio": "audio\\prompt_00051.wav", "duration_sec": 2.56, "domain": "transport", "word_count": 7, "source": ""}
+{"id": "prompt_00168", "text": "تمام يا راجل.", "audio": "audio\\prompt_00168.wav", "duration_sec": 1.36, "domain": "slang_expressions", "word_count": 3, "source": ""}
+{"id": "prompt_00317", "text": "أنا متعب من الشغل. ", "audio": "audio\\prompt_00317.wav", "duration_sec": 1.04, "domain": "emotions_opinions", "word_count": 4, "source": ""}
+{"id": "prompt_00328", "text": "ربنا يرحم الجميع. ", "audio": "audio\\prompt_00328.wav", "duration_sec": 1.84, "domain": "religion_daily", "word_count": 3, "source": ""}
+{"id": "prompt_00151", "text": "كيف حالك يا صديقي؟", "audio": "audio\\prompt_00151.wav", "duration_sec": 2.16, "domain": "phone_calls", "word_count": 4, "source": ""}
+{"id": "prompt_00316", "text": "الفيلم ده مش حلو. ", "audio": "audio\\prompt_00316.wav", "duration_sec": 1.08, "domain": "emotions_opinions", "word_count": 4, "source": ""}
+{"id": "prompt_00072", "text": "زعلان منك، كنت المفروض تخبرني من الأول.", "audio": "audio\\prompt_00072.wav", "duration_sec": 3.08, "domain": "emotions_opinions", "word_count": 7, "source": ""}
+{"id": "prompt_00295", "text": "أبويا قال ييجي متأخر النهارده. ", "audio": "audio\\prompt_00295.wav", "duration_sec": 2.44, "domain": "family_home", "word_count": 5, "source": ""}
+{"id": "prompt_00152", "text": "هكلمك لما أوصل.", "audio": "audio\\prompt_00152.wav", "duration_sec": 2.04, "domain": "phone_calls", "word_count": 3, "source": ""}
+{"id": "prompt_00322", "text": "هكلمك لما أوصل. ", "audio": "audio\\prompt_00322.wav", "duration_sec": 1.4, "domain": "phone_calls", "word_count": 3, "source": ""}
+{"id": "prompt_00074", "text": "أنا مع الفكرة دي مية بالمية، هي اللي هتنفع.", "audio": "audio\\prompt_00074.wav", "duration_sec": 2.76, "domain": "emotions_opinions", "word_count": 9, "source": ""}
+{"id": "prompt_00001", "text": "الجو حر جداً النهارده، مش طايق أقعد برة.", "audio": "audio\\prompt_00001.wav", "duration_sec": 3.2, "domain": "daily_life", "word_count": 8, "source": ""}
+{"id": "prompt_00129", "text": "بابا بيحب يشاهد الأخبار كل يوم.", "audio": "audio\\prompt_00129.wav", "duration_sec": 2.84, "domain": "family_home", "word_count": 6, "source": ""}
+{"id": "prompt_00275", "text": "المشوار ده مش هياخد أكتر من ربع ساعة عادي. ", "audio": "audio\\prompt_00275.wav", "duration_sec": 3.32, "domain": "numbers_mixed", "word_count": 9, "source": ""}
+{"id": "prompt_00210", "text": "عايزين حاجة ساقعة؟ في عصير قصب من جنب المسجد.", "audio": "audio\\prompt_00210.wav", "duration_sec": 3.44, "domain": "food_cafe", "word_count": 9, "source": ""}
+{"id": "prompt_00102", "text": "عندي موعد الدكتور يوم الأربعاء الساعة اتنين.", "audio": "audio\\prompt_00102.wav", "duration_sec": 3.56, "domain": "numbers_mixed", "word_count": 7, "source": ""}
+{"id": "prompt_00196", "text": "الطفل ده بيعيط من نص ساعة، مش عارف إيه اللي بيحصله. ", "audio": "audio\\prompt_00196.wav", "duration_sec": 2.6, "domain": "family_home", "word_count": 11, "source": ""}
+{"id": "prompt_00326", "text": "الحمد لله دائماً. ", "audio": "audio\\prompt_00326.wav", "duration_sec": 1.36, "domain": "religion_daily", "word_count": 3, "source": ""}
+{"id": "prompt_00303", "text": "الساندويتش دي رخيصة وكويسة. ", "audio": "audio\\prompt_00303.wav", "duration_sec": 2.84, "domain": "food_cafe", "word_count": 4, "source": ""}
+{"id": "prompt_00094", "text": "بسم الله قبل ما نبدأ في الأكل.", "audio": "audio\\prompt_00094.wav", "duration_sec": 1.6, "domain": "religion_daily", "word_count": 7, "source": ""}
+{"id": "prompt_00265", "text": "الله يرحمه، كان راجل طيب جداً. ", "audio": "audio\\prompt_00265.wav", "duration_sec": 2.4, "domain": "religion_daily", "word_count": 6, "source": ""}
+{"id": "prompt_00337", "text": "مش هقول حاجة. ", "audio": "audio\\prompt_00337.wav", "duration_sec": 0.88, "domain": "slang_expressions", "word_count": 3, "source": ""}
+{"id": "prompt_00280", "text": "يسطا، ده مش معقول خالص، إيه ده بجد؟ ", "audio": "audio\\prompt_00280.wav", "duration_sec": 2.76, "domain": "slang_expressions", "word_count": 8, "source": ""}

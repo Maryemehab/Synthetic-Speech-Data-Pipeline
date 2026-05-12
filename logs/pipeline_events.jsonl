@@ -1,0 +1,804 @@
+{"ts": "2026-05-11T01:59:15.299727+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_015915_1d5c4485", "run_d": "20260511_015915_1d5c4485"}
+{"ts": "2026-05-11T02:01:48.007966+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_020147_06c3a894", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:01:48.012101+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Stage 1 start — 0 prompts already on dsk", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:01:48.012815+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/short  (5 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:01:52.106698+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:01:52.107307+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:01:52.108006+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/medum  (10 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:01:56.204881+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:01:56.205351+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:01:56.205627+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/long  (5 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:00.261193+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:00.261994+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:00.262384+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/short  (4 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:04.350935+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:04.351387+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:04.351704+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/medum  (8 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:08.410836+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:08.414163+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:08.414780+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/long  (4 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:12.501689+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:12.502328+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:12.502781+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/short  (4 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:16.535538+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:16.536071+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:16.536589+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/medum  (8 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:20.597299+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:20.597854+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:20.598265+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/long  (4 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:24.697026+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:24.697345+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:24.697728+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/short  (2 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:28.795718+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:28.796402+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:28.797158+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/medum  (5 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:32.890121+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:32.890515+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:32.890631+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/long  (2 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:36.942588+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:36.943165+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:36.943705+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/short  (2 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:41.064031+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:41.064370+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:41.064630+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/medum  (5 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:45.137839+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:45.137998+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:45.138174+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/long  (2 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:49.237571+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:49.238120+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:49.238401+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/short  (2 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:53.357264+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:53.357562+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:53.357913+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/medum  (5 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:57.462568+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:57.463052+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:02:57.463355+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/long  (2 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:01.554556+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:01.554877+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:01.555083+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/short  (2 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:05.644476+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:05.644800+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:05.644932+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/medum  (5 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:09.750357+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:09.750779+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:09.751263+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/long  (2 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:13.869286+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:13.869479+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:13.869746+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/short  (2 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:17.922204+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:17.922522+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:17.922806+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/medum  (5 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:22.011665+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:22.011924+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:22.012346+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/long  (2 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:26.088891+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:26.089506+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:26.090014+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/short  (2 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:30.196155+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:30.196479+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:30.196984+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/medum  (5 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:34.269373+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:34.269563+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:34.269722+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/long  (2 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:38.358725+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:38.358979+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:38.359132+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/short  (2 sentences, 3–8 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:42.462060+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:42.462706+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:42.462968+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/medum  (5 sentences, 9–18 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:46.553328+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:46.554140+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:46.554666+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/long  (2 sentences, 19–35 words)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.656970+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.657446+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.657712+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Ollama not avalable — loadng seed corpus as fallback", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.759076+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ✓  Added 120 seed sentences", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.760162+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Stage 1 complete — 120 total prompts on dsk", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.760378+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Doman dstrbuton:", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.760498+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  daly_lfe               : 20", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.760736+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  emotons_opnons        : 10", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.760845+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  famly_home              : 15", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.761007+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  food_cafe                : 15", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.761202+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  numbers_mxed            : 10", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.761316+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  phone_calls              : 10", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.761600+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  relgon_daly           : 10", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.761712+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  slang_expressons        : 10", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.761804+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  transport                : 10", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:03:50.761895+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  work_school              : 10", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:05:22.517447+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_020147_06c3a894", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T02:05:22.519631+00:00", "level": "NFO", "logger": "ssdp.stage3_qualty", "msg": "Qualty scorng complete — 0 auto-pass, 0 auto-fal", "run_d": "20260511_020147_06c3a894"}
+{"ts": "2026-05-11T04:38:27.236619+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_043827_b7a69150", "run_d": "20260511_043827_b7a69150"}
+{"ts": "2026-05-11T04:38:27.573538+00:00", "level": "NFO", "logger": "ssdp.stage3_qualty", "msg": "Qualty scorng complete — 115 auto-pass, 4 auto-fal", "run_d": "20260511_043827_b7a69150"}
+{"ts": "2026-05-11T04:47:46.723739+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_044746_27906dff", "run_d": "20260511_044746_27906dff"}
+{"ts": "2026-05-11T04:47:46.728606+00:00", "level": "NFO", "logger": "ssdp.stage3_qualty", "msg": "Qualty scorng complete — 0 auto-pass, 0 auto-fal", "run_d": "20260511_044746_27906dff"}
+{"ts": "2026-05-11T06:15:17.263238+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_061517_f28c43db", "run_d": "20260511_061517_f28c43db"}
+{"ts": "2026-05-11T06:15:17.265538+00:00", "level": "NFO", "logger": "ssdp.stage4_export", "msg": "Exportng 57 approved tems out of 119 total", "run_d": "20260511_061517_f28c43db"}
+{"ts": "2026-05-11T06:15:17.318174+00:00", "level": "NFO", "logger": "ssdp.stage4_export", "msg": "Splt: 51 tran, 6 test", "run_d": "20260511_061517_f28c43db"}
+{"ts": "2026-05-11T06:15:17.318575+00:00", "level": "NFO", "logger": "ssdp.stage4_export", "msg": "Dataset exported to: data\\exports\\fnal_dataset", "run_d": "20260511_061517_f28c43db"}
+{"ts": "2026-05-11T06:15:17.318918+00:00", "level": "NFO", "logger": "ssdp.stage4_export", "msg": "Metadata: data\\exports\\fnal_dataset\\metadata.jsonl", "run_d": "20260511_061517_f28c43db"}
+{"ts": "2026-05-11T06:15:17.319212+00:00", "level": "NFO", "logger": "ssdp.stage4_export", "msg": "Audo fles: data\\exports\\fnal_dataset\\audo", "run_d": "20260511_061517_f28c43db"}
+{"ts": "2026-05-11T20:49:59.051621+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_204959_56e51edc", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:49:59.054158+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Stage 1 start — 120 prompts already on dsk", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:49:59.054556+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/short  (5 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:03.178768+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:03.179521+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:03.179895+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/medum  (10 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:07.261974+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:07.262543+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:07.262895+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/long  (5 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:11.323501+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:11.323955+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:11.324388+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/short  (4 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:15.410915+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:15.411305+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:15.411611+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/medum  (8 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:19.520603+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:19.521404+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:19.521663+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/long  (4 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:23.619591+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:23.620255+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:23.620713+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/short  (4 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:27.683576+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:27.685173+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:27.686036+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/medum  (8 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:31.749912+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:31.750858+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:31.751579+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/long  (4 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:35.834969+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:35.835966+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:35.836555+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/short  (2 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:39.928284+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:39.929028+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:39.929780+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/medum  (5 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:44.028589+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:44.029578+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:44.030411+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/long  (2 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:48.131461+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:48.132283+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:48.133059+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/short  (2 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:52.176694+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:52.177178+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:52.177536+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/medum  (5 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:56.263268+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:56.263535+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:50:56.263754+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/long  (2 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:00.332862+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:00.333997+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:00.334553+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/short  (2 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:04.440083+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:04.440457+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:04.440846+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/medum  (5 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:08.535758+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:08.536744+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:08.537425+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/long  (2 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:12.610668+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:12.611462+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:12.611770+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/short  (2 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:16.682047+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:16.682332+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:16.682515+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/medum  (5 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:20.768473+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:20.768605+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:20.768681+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/long  (2 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:24.836812+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:24.837321+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:24.837665+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/short  (2 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:28.920267+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:28.920573+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:28.920818+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/medum  (5 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:32.998966+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:32.999378+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:33.000137+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/long  (2 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:37.112822+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:37.113020+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:37.113286+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/short  (2 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:41.163528+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:41.163798+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:41.164124+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/medum  (5 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:45.262297+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:45.262452+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:45.262714+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/long  (2 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:49.331840+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:49.332326+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:49.333021+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/short  (2 sentences, 3–8 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:53.451079+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:53.451278+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:53.451410+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/medum  (5 sentences, 9–18 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:57.542035+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:57.542471+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:51:57.542760+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/long  (2 sentences, 19–35 words)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.629606+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.630214+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.742567+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ✓  Added 220 seed sentences (repeated f necessary)", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.744634+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Stage 1 complete — 340 total prompts on dsk", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.744862+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Doman dstrbuton:", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745151+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  daly_lfe               : 50", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745261+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  emotons_opnons        : 30", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745350+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  famly_home              : 40", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745442+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  food_cafe                : 40", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745525+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  numbers_mxed            : 30", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745606+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  phone_calls              : 30", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745688+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  relgon_daly           : 30", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745769+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  slang_expressons        : 30", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.745949+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  transport                : 30", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:52:01.746055+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  work_school              : 30", "run_d": "20260511_204959_56e51edc"}
+{"ts": "2026-05-11T20:53:21.935859+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_205321_15fcbb33", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:21.942077+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "Stage 2 start — 119 already syntheszed, 340 total prompts", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:31.413035+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "Loadng TTS model varant='namaa' on devce='cpu'", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:39.506892+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "Downloadng fne-tune checkpont from NAMAA-Space/NAMAA-Egyptan-TTS", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:39.681416+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "Loadng checkpont: C:\\Users\\marem ehab\\.cache\\huggngface\\hub\\models--NAMAA-Space--NAMAA-Egyptan-TTS\\snapshots\\bee585b6bc3a3180e257f57d5fd84fa14c31db83\\t3_mtl23ls_v2.safetensors", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:40.379446+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "Fne-tune checkpont loaded successfully", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:40.589927+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "TTS model ready", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:40.590643+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00120: 'السوق مزدحم النهارده، هاخد وقت طويل....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:58.388551+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00120  2.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:53:58.391863+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00121: 'نسيت المفتاح في البيت، لازم أرجع....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:54:53.973494+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00121  2.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:54:53.973887+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00122: 'القهوة باردة، هسخنها شوية....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:05.887118+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00122  3.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:05.887948+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00123: 'الجريدة جت متأخرة النهارده....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:15.853258+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00123  2.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:15.854063+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00124: 'الجيران بيعملوا صوت عالي جداً....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:26.159620+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00124  2.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:26.160369+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00125: 'أبويا قال ييجي متأخر النهارده....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:37.031251+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00125  2.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:37.031786+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00126: 'أختي بتذاكر للامتحان كويس....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:46.582150+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00126  2.00s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:46.582768+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00127: 'الأكل جاهز، تعالى ناكل....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:59.133817+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00127  3.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:55:59.134554+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00128: 'الغرفة مرتبة تمام النهارده....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:09.771819+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00128  2.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:09.772324+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00129: 'بابا بيحب يشاهد الأخبار كل يوم....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:21.504685+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00129  2.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:21.505452+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 10/340 (10 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:21.505922+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00130: 'القهوة هنا لذيذة جداً....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:29.327067+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00130  1.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:29.327596+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00131: 'أحب أطلب فول مع الخبز....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:37.624835+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00131  1.64s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:37.625455+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00132: 'الكشري هنا أحسن من التاني....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:47.077266+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00132  2.04s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:47.077728+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00133: 'الساندويتش دي رخيصة وكويسة....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:57.276212+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00133  2.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:56:57.276991+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00134: 'المشروب بارد تمام....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:06.228726+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00134  1.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:06.229171+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00135: 'التاكسي ده بيروح فين؟...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:13.906395+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00135  1.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:13.906951+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00136: 'المترو مزدحم الصبح....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:23.356262+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00136  1.96s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:23.356794+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00137: 'الأتوبيس متأخر النهارده....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:33.573108+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00137  2.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:33.573909+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00138: 'السائق ده ماهر جداً....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:42.503119+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00138  1.76s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:42.503676+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00139: 'الطريق ده طويل شوية....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:51.376798+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00139  1.76s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:51.377639+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 20/340 (20 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:57:51.378176+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00140: 'الدرس صعب النهارده....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:00.868962+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00140  2.00s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:00.869608+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00141: 'المدير قال ييجي غداً....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:10.717764+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00141  2.08s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:10.718361+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00142: 'الواجب كتير اليوم....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:20.177455+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00142  1.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:20.178019+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00143: 'الزملاء بيساعدوني كويس....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:29.028536+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00143  1.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:29.029095+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00144: 'الاجتماع مهم جداً....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:36.989982+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00144  1.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:36.990769+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00145: 'أنا سعيد بالنتيجة دي....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:45.534389+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00145  1.40s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:45.534999+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00146: 'الفيلم ده مش حلو....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:53.566195+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00146  1.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:58:53.566837+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00147: 'أنا متعب من الشغل....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:01.598042+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00147  1.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:01.598471+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00148: 'الأخبار دي محزنة....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:09.352690+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00148  1.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:09.353215+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00149: 'أنا متحمس للغد....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:18.926389+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00149  1.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:18.926802+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 30/340 (30 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:18.927197+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00150: 'ألو، أنا سمعت صوتك....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:27.604531+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00150  1.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:27.605185+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00151: 'كيف حالك يا صديقي؟...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:37.340633+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00151  1.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:37.341015+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00152: 'هكلمك لما أوصل....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:47.830874+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00152  1.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:47.831276+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00153: 'الخط ضعيف هنا....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:58.401851+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00153  1.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T20:59:58.402155+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00154: 'سلّم على العيلة....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:08.682774+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00154  1.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:08.683213+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00155: 'ربنا يساعدنا....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:18.508202+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00155  1.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:18.508737+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00156: 'الحمد لله دائماً....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:27.923283+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00156  1.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:27.923638+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00157: 'إن شاء الله كل حاجة تمام....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:42.573440+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00157  2.72s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:42.573888+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00158: 'ربنا يرحم الجميع....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:52.973713+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00158  1.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:00:52.974065+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00159: 'شكراً لك يا رب....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:01.469814+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00159  0.84s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:01.470234+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 40/340 (40 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:01.470624+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00160: 'الساعة تلاتة الآن....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:12.181520+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00160  1.52s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:12.181885+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00161: 'اشتريت خمس تفاحات....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:23.176260+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00161  1.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:23.176678+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00162: 'الفاتورة مئتين جنيه....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:35.312287+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00162  2.04s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:35.312722+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00163: 'يوم السابع من الشهر....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:49.348259+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00163  2.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:01:49.349242+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00164: 'عمري ثلاثين سنة....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:01.357878+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00164  2.00s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:01.358611+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00165: 'ده كلام فارغ....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:10.017137+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00165  0.88s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:10.018582+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00166: 'أنا فاهم تمام....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:21.322732+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00166  1.76s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:21.323411+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00167: 'مش هقول حاجة....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:32.022252+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00167  1.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:32.023098+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00168: 'تمام يا راجل....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:41.541144+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00168  1.16s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:41.541646+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00169: 'على فكرة، ده مهم....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:52.436607+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00169  1.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:52.437842+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 50/340 (50 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:02:52.438506+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00170: 'أنا رايح السوق دلوقتي، عايز حاجة؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:03:07.492442+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00170  2.76s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:03:07.492887+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00171: 'الجو حر جداً النهارده، مش طايق أقعد برة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:03:22.272360+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00171  2.76s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:03:22.273543+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00172: 'فضلوا تلت كيلو برتقال وكيلو طماطم، خدهم بكام؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:03:44.969752+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00172  5.00s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:03:44.970786+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00173: 'كلمت الجيران وقالوا الضوضاء من الدور الخامس. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:04:01.516882+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00173  3.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:04:01.517917+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00174: 'النور اتقطع من امبارح ولحد دلوقتي، مش عارف أعمل إي...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:04:20.072215+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00174  3.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:04:20.072926+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00175: 'وصلت البيت متأخر عشان الزحمة كانت بجنان في الطريق....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:04:39.589791+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00175  4.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:04:39.591011+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00176: 'حشتري الجرنان وأرجع على طول. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:04:54.365899+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00176  2.64s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:04:54.366634+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00177: 'محتاج أصلح الموبايل بتاعي، الشاشة اتكسرت....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:05:11.558376+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00177  3.40s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:05:11.559143+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00178: 'البنك مقفول دلوقتي، هروح بكرة الصبح. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:05:29.060307+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00178  3.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:05:29.061433+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00179: 'مين بيجرس ده؟ إيه الوقت ده ليه؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:05:47.369158+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00179  3.08s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:05:47.370160+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 60/340 (60 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:05:47.370874+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00180: 'الكهربا غالية جداً المرة دي، الفاتورة جت فوق التلا...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:06:09.338624+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00180  4.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:06:09.339615+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00181: 'فضل شوية مية في الجالون، هنعدي بيها. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:06:26.862614+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00181  3.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:06:26.863306+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00182: 'الجزارة بدري النهارده، حروح آخر النهار عشان يبقى ف...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:06:48.558753+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00182  4.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:06:48.559824+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00183: 'المواعيد مش بتتأجل، لازم تكون هناك الساعة عشرة بال...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:07:07.140977+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00183  3.84s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:07:07.141692+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00184: 'عايز أخد إجازة بكرة ولكن الشغل مش بيسمح. ' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:07:20.991217+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00184  2.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:07:20.992065+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00185: 'حطيت المفتاح في الدرج بتاع المدخل. ' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:07:38.230544+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00185  3.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:07:38.231720+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00186: 'البقالة الجديدة دي أرخص بكتير من اللي قبلها. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:07:55.026651+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00186  3.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:07:55.028216+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00187: 'ماعرفتش أنام من الحر، لفيت في السرير طول الليل. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:08:12.397435+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00187  3.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:08:12.398765+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00188: 'حنعزم الناس الجمعة الجاية، هيبقى فيه ناس كتير. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:08:30.919878+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00188  3.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:08:30.920645+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00189: 'سرقوا الشنطة من جنبي في الزحمة ومعرفتش أحد. a...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:08:48.108279+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00189  3.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:08:48.108949+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 70/340 (70 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:08:48.109638+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00190: 'ماما طلبت مني أجيب الغسيل من فوق. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:09:06.070471+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00190  3.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:09:06.072011+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00191: 'أخويا بيلعب في الكمبيوتر من الصبح لحد دلوقتي ومش ب...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:09:26.045012+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00191  4.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:09:26.045616+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00192: 'بابا مش هيجي بدري النهارده، عنده اجتماع. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:09:42.496045+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00192  3.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:09:42.497341+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00193: 'هتعملوا إيه في عيد الميلاد؟ هنعمل حفلة ولا بس أكل؟...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:10:00.193706+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00193  3.52s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:10:00.194839+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00194: 'أنا اللي هغسل الأطباق، إنت روح ذاكر. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:10:16.530644+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00194  3.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:10:16.531768+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00195: 'الأكل على النار، مش هيتأخر، نص ساعة وتنزلوا تتغدوا...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:10:38.752668+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00195  4.88s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:10:38.753474+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00196: 'الطفل ده بيعيط من نص ساعة، مش عارف إيه اللي بيحصله...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:10:58.577421+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00196  4.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:10:58.578399+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00197: 'لو حاجة محتاجينها من السوق، ادوني قايمة دلوقتي قبل...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:11:18.049446+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00197  4.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:11:18.050155+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00198: 'الأوضة مش منظفة خالص، امتى هتلمها يا عم؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:11:35.636256+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00198  3.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:11:35.637465+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00199: 'إحنا محتاجين نشتري تلاجة جديدة، دي بقالها عشر سنين...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:11:53.887894+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00199  3.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:11:53.889222+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 80/340 (80 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:11:53.889864+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00200: 'ست الكل عاملة كشري وسلطة، تعالوا الأكل اتحضر. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:12:12.965106+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00200  4.04s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:12:12.966284+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00201: 'مش هقدر أيجي معاكوا المرة دي، عندي شغل ضروري. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:12:30.427059+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00201  3.52s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:12:30.427598+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00202: 'هتشتروا العفش الجديد من فين؟ قولوا سيف الدين أحسن ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:12:51.293698+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00202  4.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:12:51.294715+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00203: 'الولاد خلصوا الامتحانات وعايزين يروحوا شرم. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:13:07.854590+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00203  3.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:13:07.855740+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00204: 'أنا تعبان من الشغل، خليني أرتاح شوية قبل العشاء. (...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:13:24.221495+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00204  3.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:13:24.222152+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00205: 'إيه اللي بتاكله النهارده، في حاجة حلوة؟ n...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:13:38.228926+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00205  2.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:13:38.229267+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00206: 'عايز كشري برجل واحدة وكتشب زيادة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:13:53.858178+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00206  3.08s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:13:53.859182+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00207: 'القهوة بتاعتهم حلوة جداً، بس تقيلة شوية. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:14:10.494220+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00207  3.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:14:10.495414+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00208: 'جبت فول ومدمس من أبو طارق، ده أحسن فول في القاهرة....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:14:28.750376+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00208  3.76s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:14:28.751326+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00209: 'الحمام المحشي دي بتاعتها زي السحر، بتحطله إيه؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:14:46.659282+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00209  3.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:14:46.659885+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 90/340 (90 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:14:46.660497+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00210: 'عايزين حاجة ساقعة؟ في عصير قصب من جنب المسجد. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:15:02.642108+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00210  3.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:15:02.642986+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00211: 'السمك النهارده طازة، خدنا كيلو بلطي وشوينا. a...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:15:23.422313+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00211  4.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:15:23.423459+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00212: 'ماكلتش من الصبح ومعدتي بتوجعني، فين أقرب كافيه؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:15:47.106880+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00212  3.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:15:47.107905+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00213: 'اللحمة دي مش اتشوّت كويس، لازم تفضل تانية عشر دقيق...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:16:05.248692+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00213  3.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:16:05.249956+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00214: 'أنا شايفة نطلب بيتزا النهارده، الجو بارد ومناسب. (...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:16:26.548743+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00214  4.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:16:26.549740+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00215: 'الرقي اللي اشتريناه ده حلو جداً، ربنا يباركلك. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:16:46.597485+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00215  4.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:16:46.598700+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00216: 'عمل لنا كنافة بالقشطة وشاي بالنعنع وتمام....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:17:09.519453+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00216  4.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:17:09.521333+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00217: 'المطعم ده زحمة دايماً بالليل، أحسن ناكل بدري. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:17:38.661713+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00217  3.84s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:17:38.662260+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00218: 'حطيت تاني كمون وكزبرة وطعم الحساء اتغير تماماً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:17:58.659090+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00218  4.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:17:58.660131+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00219: 'الكفتة بتاعتك أطعم من أي حاجة بيبيعوها في الكافيه....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:18:17.900927+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00219  4.00s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:18:17.902004+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 100/340 (100 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:18:17.902776+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00220: 'المترو بعد طلعت حرب، هنزل طلعت حرب وتاكسي....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:18:36.279362+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00220  3.84s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:18:36.280622+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00221: 'ياعم التاكسي، روح شارع جامعة الدول، عارفه؟...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:18:55.136965+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00221  3.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:18:55.137720+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00222: 'الأتوبيس رقم اتنين وأربعين بيروح فين بالظبط؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:19:12.358136+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00222  3.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:19:12.359086+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00223: 'الزحمة على كوبري أكتوبر واقفة من ساعة، روح كورنيش ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:19:31.269057+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00223  3.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:19:31.269597+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00224: 'عشرة جنيه ومش أكتر، ده مش زيادة على المسافة دي؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:19:48.249030+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00224  3.40s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:19:48.250141+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00225: 'المكروباص اللي رايح مدينة نصر بيقف فين بالظبط؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:20:07.311220+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00225  3.96s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:20:07.312485+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00226: 'نزلت غلط، المحطة الجاية دي هي اللي محتاجها. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:20:24.995499+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00226  3.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:20:24.996650+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00227: 'في باركينج قريب ولا لازم أحط العربية في الشارع؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:20:44.515479+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00227  4.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:20:44.516115+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00228: 'التاكسي مكسور التكييف، ممكن تنزل الشباك شوية؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:02.133319+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00228  3.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:02.134364+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00229: 'طول الطريق وعدل في شارع التحرير لحد ما تلاقي إشارة...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:21.125591+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00229  3.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:21.126726+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 110/340 (110 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:21.127496+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00230: 'الاجتماع اتأجل للأسبوع الجاي، فيه مشكلة في الجدول....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:37.438430+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00230  3.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:37.439209+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00231: 'المشروع ده محتاج تلات أيام على الأقل عشان يخلص. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:57.574226+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00231  4.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:21:57.575309+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00232: 'الأستاذ محمد عنده امتحان مفاجئ بكرة، ذاكرتوا؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:22:16.411173+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00232  3.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:22:16.412062+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00233: 'لازم نسلّم التقرير آخر الأسبوع ولو مش خلص....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:22:34.205604+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00233  3.64s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:22:34.206731+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00234: 'معاكيش ورقة الامتحان اللي فات عشان أشوف غلطاتي؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:22:50.868989+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00234  3.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:22:50.870010+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00235: 'المدير عايز يشوف الأرقام قبل ما يعمل القرار. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:23:07.266955+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00235  3.64s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:23:07.267927+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00236: 'خدت إجازة مرضية النهارده عشان كنت تعبان. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:24:50.335871+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00236  2.96s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:24:50.336473+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00237: 'فيه ميتنج على الزووم الساعة اتنين، ماتنساش. a...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:03.882833+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00237  3.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:03.883804+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00238: 'ما قدرتش أرد على الإيميل بدري، كنت في شغل تاني. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:19.698502+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00238  3.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:19.699411+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00239: 'الفصل ده فيه خمسة وأربعين طالب والفصل ضيق على الآخ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:36.929326+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00239  3.88s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:36.929995+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 120/340 (120 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:36.930400+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00240: 'والله مبسوط جداً، النهارده يوم من أحسن الأيام. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:55.609270+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00240  4.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:25:55.610511+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00241: 'مش فاهم ليه الناس بتعمل كده، بجد محيرني. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:26:15.068788+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00241  4.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:26:15.069673+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00242: 'زعلان منك، كنت المفروض تخبرني من الأول. n...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:26:31.517510+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00242  3.00s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:26:31.518819+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00243: 'صراحة الكلام ده مش منطقي خالص، مين اللي قاله؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:26:52.043594+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00243  3.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:26:52.044606+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00244: 'أنا مع الفكرة دي مية بالمية، هي اللي هتنفع. a...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:27:12.814513+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00244  3.52s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:27:12.816159+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00245: 'خايف من الامتحان بس هحاول أذاكر كويس. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:27:29.965155+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00245  2.72s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:27:29.966577+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00246: 'الخبر ده صدمني جداً، ما توقعتوش. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:27:49.462971+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00246  3.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:27:49.463986+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00247: 'مبسوطة بالهدية دي، جميلة جداً وما توقعتهاش. a...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:28:11.875479+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00247  4.08s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:28:11.876569+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00248: 'مش مقتنع بالقرار ده بس هتبعه لأن الأغلبية وافقت. (...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:28:36.179215+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00248  4.40s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:28:36.180102+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00249: 'تعبت من الحالة دي، محتاج أغير حاجة في حياتي. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:28:57.372853+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00249  3.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:28:57.373773+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 130/340 (130 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:28:57.374430+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00250: 'ألو، آلو، تسمعني ولا فيه مشكلة في الشبكة؟...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:29:16.384933+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00250  3.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:29:16.386079+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00251: 'أهلاً يا هاني، كنت بفكر فيك دلوقتي، إيه أخبارك؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:29:37.854727+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00251  3.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:29:37.855648+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00252: 'كلمني لما توصل عشان أنزل أفتحلك الباب. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:29:57.737094+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00252  3.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:29:57.738106+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00253: 'بابا بيعمل إيه؟ سلّم عليه وقوله إننا بخير....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:30:16.911966+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00253  3.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:30:16.912998+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00254: 'عايزك تيجي بكرة الصبح لو معاك وقت. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:30:35.987649+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00254  3.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:30:35.989293+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00255: 'مش قادر أحضر النهارده، ممكن نأجله للبعد بكرة؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:30:55.796118+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00255  3.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:30:55.797103+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00256: 'الخط بيقطع معاك، هكلمك تاني من مكان تاني....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:31:17.209253+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00256  3.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:31:17.210618+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00257: 'جدتك سألت عليك، قالت امتى هييجي يزورنا. n...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:31:37.125875+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00257  3.52s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:31:37.126753+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00258: 'البيانات خلصت على الموبايل، هبعتلك على الواي فاي. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:31:57.299303+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00258  3.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:31:57.301067+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00259: 'معلش ألو، صوتي مسمعش كويس؟ أنا هنا بسمعك....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:32:16.786853+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00259  3.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:32:16.787780+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 140/340 (140 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:32:16.788365+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00260: 'إن شاء الله هيتعدل الجو بكرة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:32:34.140582+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00260  2.84s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:32:34.141757+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00261: 'الحمد لله على كل حال، كل حاجة بخير. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:32:52.156574+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00261  2.88s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:32:52.157335+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00262: 'ربنا يسهل وتعدي بسلامة يا رب. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:33:14.675266+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00262  4.16s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:33:14.676161+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00263: 'ماشي يا عم، ربنا يخليك وتيجي بالسلامة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:33:32.823468+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00263  3.00s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:33:32.824160+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00264: 'بسم الله قبل ما نبدأ في الأكل. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:33:50.706712+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00264  2.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:33:50.707897+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00265: 'الله يرحمه، كان راجل طيب جداً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:34:11.082970+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00265  3.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:34:11.084551+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00266: 'يسلم إيدك على الأكل الحلو ده. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:34:30.463589+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00266  3.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:34:30.464993+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00267: 'ربنا يكرمك يا عم، متشكر جداً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:34:49.247759+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00267  3.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:34:49.248844+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00268: 'إن شاء الله تكون صحتك بتتحسن بسرعة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:35:07.974769+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00268  3.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:35:07.976355+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00269: 'والله أنا ما عرفتش أعمل غير كده، ده اللي قدرت عليه...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:35:31.235628+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00269  3.08s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:35:31.236406+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 150/340 (150 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:35:31.237007+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00270: 'السعر اتغير، دلوقتي بقى مية وخمسين بدل المية. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:35:57.544027+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00270  4.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:35:57.545133+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00271: 'الاجتماع الساعة عشرة والنص في نفس المكان....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:36:21.841964+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00271  3.84s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:36:21.843077+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00272: 'عندي موعد الدكتور يوم الأربعاء الساعة اتنين. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:36:38.643284+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00272  4.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:36:38.643871+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00273: 'اشتريت تلات حاجات وحساب الكاشير طلع أربعة....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:36:51.585485+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00273  3.40s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:36:51.586225+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00274: 'في تلاتين طالب في الفصل ده بس غاب عشرة النهارده. (...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:37:06.946498+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00274  4.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:37:06.947210+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00275: 'المشوار ده مش هياخد أكتر من ربع ساعة عادي....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:37:19.829991+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00275  3.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:37:19.831016+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00276: 'الراتب بقى ألفين وخمسمية بعد الزيادة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:37:31.425121+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00276  2.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:37:31.426004+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00277: 'حجزت أوضة في الفندق من خمستاشر لتسعتاشر. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:37:47.883129+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00277  4.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:37:47.883881+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00278: 'السيارة بقالها ست سنين ولسه شغالة تمام. n...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:04.899539+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00278  3.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:04.900299+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00279: 'دفعت ثلاثة وعشرين جنيه في الفاتورة دي بس....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:23.343034+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00279  3.76s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:23.343527+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 160/340 (160 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:23.343955+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00280: 'يسطا، ده مش معقول خالص، إيه ده بجد؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:39.826960+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00280  3.16s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:39.827848+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00281: 'عال العال، كده تمام، إنت فاهمها صح. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:57.732708+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00281  3.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:38:57.733387+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00282: 'يابني، إنت بتتكلم في إيه بالظبط؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:39:12.018838+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00282  2.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:39:12.019392+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00283: 'أيوه، ده اللي بقوله من الأول، متأخرين قوي....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:39:31.283813+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00283  3.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:39:31.285067+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00284: 'ماشي يا عم، خليها عليّ، أنا هتصرف. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:39:47.244952+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00284  3.04s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:39:47.246131+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00285: 'بلاها، مش محتاجين الموضوع ده دلوقتي. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:40:04.293284+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00285  3.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:40:04.294450+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00286: 'هو ده الكلام، كده بقى أحسن بكتير من الأول....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:40:21.183971+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00286  3.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:40:21.184859+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00287: 'تقيل شوية الكلام ده، فكر كويس قبل ما تقول....' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:40:37.060683+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00287  3.08s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:40:37.061270+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00288: 'مش شايل همها، ده مش أكتر من مزحة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:40:53.537230+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00288  3.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:40:53.538190+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00289: 'تمام يا صاحبي، شكراً على التعب، ربنا يجازيك. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:41:12.076847+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00289  3.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:41:12.078004+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 170/340 (170 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:41:12.078722+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00290: 'السوق مزدحم النهارده، هاخد وقت طويل. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:41:32.193927+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00290  4.04s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:41:32.195233+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00291: 'نسيت المفتاح في البيت، لازم أرجع. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:41:48.060139+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00291  3.08s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:41:48.061234+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00292: 'القهوة باردة، هسخنها شوية. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:42:03.222285+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00292  2.84s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:42:03.223219+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00293: 'الجريدة جت متأخرة النهارده. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:42:18.679898+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00293  3.04s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:42:18.680554+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00294: 'الجيران بيعملوا صوت عالي جداً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:42:35.070392+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00294  3.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:42:35.071191+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00295: 'أبويا قال ييجي متأخر النهارده. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:42:52.197498+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00295  3.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:42:52.198373+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00296: 'أختي بتذاكر للامتحان كويس. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:09.298507+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00296  3.52s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:09.299142+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00297: 'الأكل جاهز، تعالى ناكل. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:24.073001+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00297  2.72s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:24.074048+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00298: 'الغرفة مرتبة تمام النهارده. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:41.334622+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00298  3.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:41.335612+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00299: 'بابا بيحب يشاهد الأخبار كل يوم. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:56.547909+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00299  2.84s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:56.548566+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 180/340 (180 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:43:56.549263+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00300: 'القهوة هنا لذيذة جداً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:44:51.628017+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00300  2.96s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:44:51.630998+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00301: 'أحب أطلب فول مع الخبز. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:45:21.877516+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00301  2.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:45:21.878401+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00302: 'الكشري هنا أحسن من التاني. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:45:39.195595+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00302  3.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:45:39.196455+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00303: 'الساندويتش دي رخيصة وكويسة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:45:53.642867+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00303  2.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:45:53.643444+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00304: 'المشروب بارد تمام. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:46:06.876879+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00304  2.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:46:06.877911+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00305: 'التاكسي ده بيروح فين؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:46:20.393145+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00305  2.28s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:46:20.394400+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00306: 'المترو مزدحم الصبح. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:46:36.253258+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00306  2.92s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:46:36.253970+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00307: 'الأتوبيس متأخر النهارده. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:46:51.385158+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00307  2.80s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:46:51.385823+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00308: 'السائق ده ماهر جداً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:04.362771+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00308  2.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:04.363837+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00309: 'الطريق ده طويل شوية. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:18.483814+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00309  2.48s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:18.484888+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 190/340 (190 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:18.485753+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00310: 'الدرس صعب النهارده. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:32.520467+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00310  2.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:32.521341+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00311: 'المدير قال ييجي غداً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:46.495962+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00311  2.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:47:46.497303+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00312: 'الواجب كتير اليوم. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:48:08.642063+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00312  2.52s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:48:08.642953+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00313: 'الزملاء بيساعدوني كويس. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:48:23.042526+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00313  2.64s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:48:23.043314+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00314: 'الاجتماع مهم جداً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:48:36.908965+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00314  2.40s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:48:36.909602+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00315: 'أنا سعيد بالنتيجة دي. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:48:50.641629+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00315  2.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:48:50.642257+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00316: 'الفيلم ده مش حلو. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:03.566564+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00316  2.16s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:03.567214+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00317: 'أنا متعب من الشغل. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:17.379283+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00317  2.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:17.379990+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00318: 'الأخبار دي محزنة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:30.522321+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00318  2.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:30.523298+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00319: 'أنا متحمس للغد. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:43.927276+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00319  2.20s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:43.927869+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 200/340 (200 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:43.928441+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00320: 'ألو، أنا سمعت صوتك. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:57.335613+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00320  2.16s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:49:57.336678+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00321: 'كيف حالك يا صديقي؟ ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:50:10.222914+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00321  2.08s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:50:10.223802+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00322: 'هكلمك لما أوصل. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:50:23.285991+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00322  2.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:50:23.286744+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00323: 'الخط ضعيف هنا. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:50:35.507358+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00323  2.04s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:50:35.508044+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00324: 'سلّم على العيلة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:50:48.690552+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00324  2.32s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:50:48.691543+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00325: 'ربنا يساعدنا. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:01.845664+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00325  2.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:01.846217+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00326: 'الحمد لله دائماً. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:15.364142+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00326  2.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:15.364890+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00327: 'إن شاء الله كل حاجة تمام. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:30.698781+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00327  2.88s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:30.699972+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00328: 'ربنا يرحم الجميع. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:44.798931+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00328  2.60s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:44.799997+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00329: 'شكراً لك يا رب. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:57.244147+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00329  2.00s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:57.245114+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 210/340 (210 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:51:57.245736+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00330: 'الساعة تلاتة الآن. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:52:11.784993+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00330  2.68s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:52:11.785759+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00331: 'اشتريت خمس تفاحات. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:52:24.487281+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00331  2.12s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:52:24.488096+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00332: 'الفاتورة مئتين جنيه. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:52:38.468786+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00332  2.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:52:38.469326+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00333: 'يوم السابع من الشهر. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:52:53.098530+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00333  2.76s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:52:53.099250+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00334: 'عمري ثلاثين سنة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:53:06.066625+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00334  2.24s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:53:06.067245+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00335: 'ده كلام فارغ. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:53:19.995812+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00335  2.44s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:53:19.996480+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00336: 'أنا فاهم تمام. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:53:34.159717+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00336  2.56s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:53:34.160346+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00337: 'مش هقول حاجة. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:53:44.761023+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00337  1.52s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:53:44.761555+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00338: 'تمام يا راجل. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:54:00.619496+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00338  3.16s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:54:00.619736+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  Syntheszng prompt_00339: 'على فكرة، ده مهم. ...' (attempt 1)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:54:13.961429+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ✓  prompt_00339  2.36s", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:54:13.962431+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "  ── Batch checkpont: 220/340 (220 ok, 0 faled)", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:54:13.965468+00:00", "level": "NFO", "logger": "ssdp.stage2", "msg": "Stage 2 complete — 220 ok, 0 faled, 339 total n manfest", "run_d": "20260511_205321_15fcbb33"}
+{"ts": "2026-05-11T21:54:15.983023+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_215415_48372f2c", "run_d": "20260511_215415_48372f2c"}
+{"ts": "2026-05-11T21:54:16.558865+00:00", "level": "NFO", "logger": "ssdp.stage3_qualty", "msg": "Qualty scorng complete — 220 auto-pass, 0 auto-fal", "run_d": "20260511_215415_48372f2c"}
+{"ts": "2026-05-11T21:55:14.774395+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_215514_d94348ff", "run_d": "20260511_215514_d94348ff"}
+{"ts": "2026-05-11T21:55:14.782462+00:00", "level": "NFO", "logger": "ssdp.stage3_qualty", "msg": "Qualty scorng complete — 0 auto-pass, 0 auto-fal", "run_d": "20260511_215514_d94348ff"}
+{"ts": "2026-05-11T22:09:04.748644+00:00", "level": "NFO", "logger": "ssdp", "msg": "Ppelne ntalsed — run_d=20260511_220904_bcc77008", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:04.752550+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Stage 1 start — 340 prompts already on dsk", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:04.752962+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/short  (5 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:08.829879+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:08.830509+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:08.830813+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/medum  (10 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:12.922703+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:12.923178+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:12.923500+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  daly_lfe/long  (5 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:17.009943+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:17.011107+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:17.012001+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/short  (4 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:21.075559+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:21.076998+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:21.077717+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/medum  (8 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:25.151707+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:25.152387+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:25.152701+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  famly_home/long  (4 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:29.227259+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:29.227842+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:29.229075+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/short  (4 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:33.326552+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:33.327595+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:33.328430+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/medum  (8 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:37.415455+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:37.416014+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:37.416416+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  food_cafe/long  (4 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:41.476328+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:41.476944+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:41.477290+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/short  (2 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:45.566387+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:45.566931+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:45.567311+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/medum  (5 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:49.650821+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:49.651353+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:49.651768+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  transport/long  (2 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:53.721998+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:53.722389+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:53.722664+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/short  (2 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:57.812332+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:57.812745+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:09:57.813120+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/medum  (5 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:01.872017+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:01.872304+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:01.872484+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  work_school/long  (2 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:05.954401+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:05.954710+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:05.955084+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/short  (2 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:10.055011+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:10.055189+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:10.055345+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/medum  (5 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:14.159779+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:14.160142+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:14.160491+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  emotons_opnons/long  (2 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:18.260029+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:18.260397+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:18.260803+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/short  (2 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:22.332523+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:22.332850+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:22.333221+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/medum  (5 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:26.449758+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:26.450135+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:26.450450+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  phone_calls/long  (2 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:30.552748+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:30.553066+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:30.553264+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/short  (2 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:34.636564+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:34.636727+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:34.636982+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/medum  (5 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:38.718119+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:38.718343+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:38.718553+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  relgon_daly/long  (2 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:42.797999+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:42.798351+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:42.798564+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/short  (2 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:46.868572+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:46.872695+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:46.873002+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/medum  (5 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:50.942825+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:50.943583+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:50.943862+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  numbers_mxed/long  (2 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:54.991929+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:54.992329+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:54.992597+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/short  (2 sentences, 3–8 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:59.078246+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:59.078611+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:10:59.079075+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/medum  (5 sentences, 9–18 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:03.122202+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:03.122363+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:03.122472+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ▶  slang_expressons/long  (2 sentences, 19–35 words)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.219553+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Ollama not reachable — s `ollama serve` runnng?", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.220153+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "  ⚠  Ollama unavalable (attempt 1)", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.221239+00:00", "level": "WARNNG", "logger": "ssdp.stage1", "msg": "Only 0 unque seed sentences avalable; target 500 cannot be reached wthout Ollama.", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.221542+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  ✓  Added 0 seed sentences", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.224157+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Stage 1 complete — 340 total prompts on dsk", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.224527+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "Doman dstrbuton:", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.224799+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  daly_lfe               : 50", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.224960+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  emotons_opnons        : 30", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.225128+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  famly_home              : 40", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.225364+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  food_cafe                : 40", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.225574+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  numbers_mxed            : 30", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.225723+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  phone_calls              : 30", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.226019+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  relgon_daly           : 30", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.226167+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  slang_expressons        : 30", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.226269+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  transport                : 30", "run_d": "20260511_220904_bcc77008"}
+{"ts": "2026-05-11T22:11:07.226361+00:00", "level": "NFO", "logger": "ssdp.stage1", "msg": "  work_school              : 30", "run_d": "20260511_220904_bcc77008"}
