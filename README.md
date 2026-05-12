@@ -401,8 +401,8 @@ A proper database (SQLite, PostgreSQL) would enable richer queries over pipeline
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ssdp.git
-cd ssdp
+https://github.com/Maryemehab/Synthetic-Speech-Data-Pipeline.git
+
 
 # 2. Create a virtual environment (recommended)
 python -m venv .venv
