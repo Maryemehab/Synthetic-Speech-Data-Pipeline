@@ -12,15 +12,7 @@ log = get_logger("stage2")
 
 
 def _load_model(cfg: dict):
-    """
-    Load the TTS model according to config.
     
-    This function handles all three variants.  The import of chatterbox
-    is inside this function so the rest of the pipeline can still be
-    imported (for tests etc.) even if chatterbox is not installed.
-    
-    Returns (model, sample_rate) or raises ImportError with instructions.
-    """
     try:
         import torch
         from huggingface_hub import snapshot_download
@@ -87,7 +79,6 @@ def _load_model(cfg: dict):
 # Audio utilities
 
 def _get_duration(audio_path: Path) -> float:
-    """Return audio duration in seconds using soundfile (no heavy deps)."""
     try:
         import soundfile as sf
         info = sf.info(str(audio_path))
@@ -164,7 +155,7 @@ def synthesize_audio(cfg: dict, prompts: list[dict]) -> list[dict]:
             try:
                 log.info(f"  Synthesizing {pid}: '{text[:50]}...' (attempt {attempt+1})")
 
-                # ── Core synthesis call ───────────────────────
+                #  Core synthesis call 
                 wav = model.generate(
                     text,
                     language_id="ar",          # Arabic — applies to all variants
