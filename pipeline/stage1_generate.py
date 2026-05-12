@@ -48,15 +48,7 @@ def _build_generation_prompt(domain: str, hint: str, count: int,
 
 def _call_ollama(base_url: str, model: str, system: str, user: str,
                  options: dict, timeout: int) -> str | None:
-    """
-    Call the Ollama /api/chat endpoint and return the assistant's message.
-
-    Ollama runs locally — install from https://ollama.com then:
-      ollama serve
-      ollama pull qwen2.5:7b
-
-    Returns None on any error so the caller can fall back gracefully.
-    """
+    
     url = f"{base_url.rstrip('/')}/api/chat"
     payload = {
         "model":    model,
@@ -85,12 +77,7 @@ def _call_ollama(base_url: str, model: str, system: str, user: str,
 
 
 def _parse_json_array(raw: str) -> list[str]:
-    """
-    Extract a JSON array from an LLM response.
-
-    LLMs sometimes wrap JSON in markdown fences (```json ... ```) or add
-    commentary before/after.  We strip the fences and find the first [].
-    """
+    
     # Remove markdown code fences
     raw = re.sub(r"```(?:json)?", "", raw, flags=re.IGNORECASE).strip()
     raw = raw.replace("```", "").strip()
@@ -114,14 +101,7 @@ def _parse_json_array(raw: str) -> list[str]:
 
 
 def _validate(sentence: str) -> tuple[bool, str]:
-    """
-    Quick sanity checks on a generated sentence.
-
-    We reject:
-    • Sentences shorter than 3 words (fragments)
-    • Sentences with <30% Arabic characters (LLM went off-rails to Latin)
-    • Sentences that are just punctuation or numbers
-    """
+   
     if len(sentence.split()) < 3:
         return False, "too_few_words"
 
@@ -140,20 +120,7 @@ def _validate(sentence: str) -> tuple[bool, str]:
 
 
 def generate_prompts(cfg: dict) -> list[dict]:
-    """
-    Run Stage 1: generate Egyptian Arabic text prompts.
-
-    Strategy
-    ─────────
-    1. Try Ollama (local LLM).  Generate per (domain × length_bucket).
-    2. If Ollama unavailable AND use_seed_fallback=true, merge in the
-       120 hand-crafted seed sentences.
-    3. Deduplicate by text.
-    4. Write each record to prompts.jsonl immediately (streaming writes).
-    5. Checkpoint each (domain, bucket) batch so restarts skip done work.
-
-    Returns the full list of prompt records.
-    """
+    
     tg = cfg["text_generation"]
     ollama_cfg = tg["ollama"]
 
