@@ -6,7 +6,7 @@ pipeline:
   run_id: null   # auto-generated as YYYYMMDD_HHMMSS_<8chars> each run
 
 # STAGE 1 — Text Prompt Generation
-# We use a local LLM via Ollama (free, runs on your machine, no API key needed)
+# i use a local LLM via Ollama (free, runs on your machine, no API key needed)
 # Fallback: if Ollama is not running, we use the built-in seed corpus
 text_generation:
   target_count: 500         # Total sentences to produce (expanded from 120 for larger dataset)
