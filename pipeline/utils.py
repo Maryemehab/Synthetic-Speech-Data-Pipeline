@@ -1,41 +1,3 @@
-"""
-pipeline/utils.py  —  Shared utilities for every pipeline stage
-═══════════════════════════════════════════════════════════════
-
-CONCEPTS EXPLAINED
-──────────────────
-1. Config loading
-   We read one YAML file at startup and pass it as a plain dict everywhere.
-   Why not use environment variables?  Too many parameters; YAML keeps them
-   together and supports comments.  Why not hardcode?  Hardcoded values mean
-   you must edit Python to change a batch size — bad engineering practice.
-
-2. Structured logging
-   Every log event goes to THREE sinks:
-     a) stdout    → human-readable (you see it while running)
-     b) .log file → same format, for later grep
-     c) .jsonl    → one JSON object per event; queryable with `jq`
-   Example query:  jq 'select(.level=="ERROR")' logs/pipeline_events.jsonl
-
-3. Checkpointing
-   TTS synthesis can take HOURS for large datasets.  If the process crashes
-   (power cut, OOM, Ctrl-C) we don't want to redo finished work.
-   
-   Pattern:
-       ckpt = Checkpoint("data/audio/.synth_checkpoint.json")
-       for item in all_items:
-           if ckpt.done(item["id"]):
-               continue          # already done — skip
-           process(item)
-           ckpt.mark_done(item["id"])
-   
-   The checkpoint file is written atomically (write-to-tmp then rename)
-   so a crash mid-write doesn't corrupt it.
-
-4. JSONL format
-   JSON Lines = one JSON object per line.  Better than a big JSON array
-   because you can append without reading the whole file, and `tail -f` works.
-"""
 
 import json
 import logging
@@ -48,17 +10,9 @@ from pathlib import Path
 import yaml
 
 
-# ══════════════════════════════════════════════════════════════
-# Config
-# ══════════════════════════════════════════════════════════════
 
 def load_config(config_path: str = "config/config.yaml") -> dict:
-    """
-    Load YAML config and auto-fill the run_id.
-
-    The run_id ties together every log event and artifact from one pipeline
-    execution so you can correlate them later.
-    """
+    
     root_dir = Path(__file__).resolve().parent.parent
     path = (root_dir / config_path).resolve() if not Path(config_path).is_absolute() else Path(config_path)
     if not path.exists():
@@ -222,9 +176,9 @@ def load_config(config_path: str = "config/config.yaml") -> dict:
     return cfg
 
 
-# ══════════════════════════════════════════════════════════════
+
 # Logging
-# ══════════════════════════════════════════════════════════════
+
 
 _json_fh = None   # module-level handle so we don't open the file repeatedly
 
@@ -255,17 +209,15 @@ def setup_logging(cfg: dict) -> logging.Logger:
     logger.setLevel(level)
     logger.handlers.clear()
 
-    # ── stdout ────────────────────────────────────────────────
+     
     sh = logging.StreamHandler(sys.stdout)
     sh.setFormatter(fmt)
     logger.addHandler(sh)
 
-    # ── plain .log file ───────────────────────────────────────
     fh = logging.FileHandler(log_file, encoding="utf-8")
     fh.setFormatter(fmt)
     logger.addHandler(fh)
 
-    # ── JSONL handler ─────────────────────────────────────────
     _json_fh = open(json_log_file, "a", encoding="utf-8")
     run_id   = cfg["pipeline"].get("run_id", "unknown")
 
@@ -293,26 +245,11 @@ def get_logger(name: str) -> logging.Logger:
     return logging.getLogger(f"ssdp.{name}")
 
 
-# ══════════════════════════════════════════════════════════════
 # Checkpointing
-# ══════════════════════════════════════════════════════════════
+
 
 class Checkpoint:
-    """
-    Persistent key-value store backed by a single JSON file.
-
-    Writes are atomic: we write to a .tmp file then rename it, so a crash
-    mid-write never corrupts the checkpoint.
-
-    Usage pattern:
-        ckpt = Checkpoint("data/audio/.synth_checkpoint.json")
-
-        for item in items:
-            if ckpt.done(item["id"]):
-                continue                   # skip already-processed
-            result = expensive_operation(item)
-            ckpt.mark_done(item["id"], {"bytes": result.size})
-    """
+    
 
     def __init__(self, path: str | Path):
         self.path = Path(path)
@@ -364,9 +301,8 @@ class Checkpoint:
         return {k for k, v in self._data.items() if v.get("status") == "done"}
 
 
-# ══════════════════════════════════════════════════════════════
 # JSONL helpers
-# ══════════════════════════════════════════════════════════════
+
 
 def append_jsonl(path: str | Path, obj: dict):
     """Append one JSON object as a new line to a .jsonl file."""
