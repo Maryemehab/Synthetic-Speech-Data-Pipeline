@@ -12,11 +12,10 @@ pipeline:
   version: "1.0.0"
   run_id: null   # auto-generated as YYYYMMDD_HHMMSS_<8chars> each run
 
-# ─────────────────────────────────────────────────────────────────────────────
 # STAGE 1 — Text Prompt Generation
 # We use a local LLM via Ollama (free, runs on your machine, no API key needed)
 # Fallback: if Ollama is not running, we use the built-in seed corpus
-# ─────────────────────────────────────────────────────────────────────────────
+
 text_generation:
   target_count: 120         # Total sentences to produce
 
@@ -76,12 +75,11 @@ text_generation:
   checkpoint_file: "data/raw_text/.gen_checkpoint.json"
   retry_attempts: 3
 
-# ─────────────────────────────────────────────────────────────────────────────
+
 # STAGE 2 — TTS Audio Synthesis
 # Primary:  NAMAA-Space/NAMAA-Egyptian-TTS  (MIT, best Egyptian dialect quality)
 # Fallback: oddadmix/chatterbox-egyptian-v0 (MIT, the model you mentioned)
 # Both are fine-tunes of ResembleAI/chatterbox-multilingual (MIT)
-# ─────────────────────────────────────────────────────────────────────────────
 tts_synthesis:
   # "namaa" | "oddadmix" | "base_arabic"
   model_variant: "namaa"
@@ -112,9 +110,7 @@ tts_synthesis:
   manifest_file:   "data/audio/synthesis_manifest.jsonl"
   checkpoint_file: "data/audio/.synth_checkpoint.json"
 
-# ─────────────────────────────────────────────────────────────────────────────
 # STAGE 3 — Quality Review
-# ─────────────────────────────────────────────────────────────────────────────
 review:
   auto_signals:
     min_duration_seconds: 0.5
@@ -128,9 +124,8 @@ review:
   statuses: [approved, rejected, uncertain]
   review_db: "data/reviewed/review_decisions.jsonl"
 
-# ─────────────────────────────────────────────────────────────────────────────
+
 # STAGE 4 — Export
-# ─────────────────────────────────────────────────────────────────────────────
 export:
   format: "huggingface"
   accepted_status: "approved"
@@ -142,9 +137,8 @@ export:
     train_ratio: 0.9
     seed: 42
 
-# ─────────────────────────────────────────────────────────────────────────────
+
 # Logging
-# ─────────────────────────────────────────────────────────────────────────────
 logging:
   level: "INFO"
   log_file:      "logs/pipeline.log"
