@@ -1,21 +1,19 @@
-# ══════════════════════════════════════════════════════════════
 # S.S.D.P. — Synthetic Speech Data Pipeline
 # All packages are FREE and OPEN SOURCE (MIT / Apache 2.0)
-# ══════════════════════════════════════════════════════════════
 
-# ── Core Python utilities ──────────────────────────────────────
+#  Core Python utilities 
 pyyaml>=6.0           # Read config.yaml
 tqdm>=4.66            # Progress bars for long loops
 requests>=2.31        # HTTP calls (Ollama API)
 aiofiles>=23.0        # Async file I/O for FastAPI
 
-# ── Audio processing ───────────────────────────────────────────
+#  Audio processing 
 soundfile>=0.12       # Read/write WAV files
 numpy>=1.24           # Array math for audio signals
 librosa>=0.10         # Audio analysis (silence ratio, duration)
 pydub>=0.25           # Audio format conversion (mp3→wav)
 
-# ── TTS — Chatterbox (MIT license, by Resemble AI) ─────────────
+#  TTS — Chatterbox (MIT license, by Resemble AI) 
 # Install separately because it pins torch versions:
 #   pip install chatterbox-tts
 # Then the Egyptian fine-tune weights are loaded from HuggingFace:
@@ -24,15 +22,15 @@ pydub>=0.25           # Audio format conversion (mp3→wav)
 safetensors>=0.4      # Load .safetensors model checkpoints
 huggingface-hub>=0.22 # Download model weights from HF
 
-# ── Review web UI ─────────────────────────────────────────────
+#  Review web UI 
 fastapi>=0.110        # Web framework for review UI
 uvicorn>=0.29         # ASGI server to run FastAPI
 jinja2>=3.1           # HTML templating
 python-multipart>=0.0.9  # Form submissions
 
-# ── Dataset export ────────────────────────────────────────────
+#  Dataset export 
 datasets>=2.18        # HuggingFace datasets library (export format)
 
-# ── Testing ───────────────────────────────────────────────────
+#  Testing 
 pytest>=8.0
 pytest-asyncio>=0.23
