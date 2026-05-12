@@ -21,7 +21,7 @@ S.S.D.P. is a four-stage, fully open-source pipeline that produces synthetic Egy
 
 The pipeline addresses a real bottleneck in Arabic speech AI: high-quality labeled audio for Egyptian Arabic dialect is scarce and expensive to collect. By generating text with a local LLM, synthesizing audio with an Egyptian fine-tuned TTS model, applying automated quality checks, and exposing a browser-based review interface, the pipeline produces training-ready (text, audio) pairs with appropriate quality controls at every step.
 
-> ⭐ **Key outcome:** A structured, reviewed, training-ready dataset of Egyptian Arabic utterances, exported in HuggingFace-compatible format — ready to load into a Whisper or wav2vec2 fine-tuning script in one line of code.
+>  **Key outcome:** A structured, reviewed, training-ready dataset of Egyptian Arabic utterances, exported in HuggingFace-compatible format — ready to load into a Whisper or wav2vec2 fine-tuning script in one line of code.
 
 ---
 
@@ -44,7 +44,7 @@ Egyptian Arabic is not a simple variant of Modern Standard Arabic (MSA). It pres
 - **Register diversity:** Egyptian Arabic spans a wide range from highly colloquial (street vendor speech) to semi-formal (office meetings) — a model trained on one register generalises poorly to another.
 - **Script ambiguity:** Arabic script is inherently ambiguous without diacritical marks (tashkeel). Most Egyptian text is written without them, creating a many-to-one mapping from text to pronunciation.
 
-> ⚠ **Pipeline implication:** Each of the above challenges is directly addressed in my design — Egyptian dialect prompts, Egyptian fine-tuned TTS, dialect-aware validation, and quality signals that flag the failure modes most likely to occur.
+>  **Pipeline implication:** Each of the above challenges is directly addressed in my design — Egyptian dialect prompts, Egyptian fine-tuned TTS, dialect-aware validation, and quality signals that flag the failure modes most likely to occur.
 
 ---
 
