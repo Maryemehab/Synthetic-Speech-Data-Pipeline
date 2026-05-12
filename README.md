@@ -589,7 +589,3 @@ ssdp/
 4. **Scale to 10K+ prompts** — The checkpointing and batching infrastructure already supports this. The main addition needed is more diverse LLM domain prompts and longer runs.
 
 ---
-
-*S.S.D.P. · Synthetic Speech Data Pipeline · Egyptian Arabic · v1.0*
-
-*100% Open Source · MIT License · Runs Fully Locally · No API Keys Required*
